@@ -31,6 +31,7 @@
 "pet_raptor"
 "pet_monkey"
 "pet_horse"
+"pet_chick"
 "pet_gnome"
 "pet_cow"
 "golden_cow"
