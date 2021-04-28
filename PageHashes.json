@@ -1,0 +1,591 @@
+{
+  "Date": "210428192816",
+  "Type": "NORMAL",
+  "Count": 146,
+  "Items": [
+    {
+      "PageName": "root",
+      "OfferId": -1
+    },
+    {
+      "PageName": "front_page",
+      "OfferId": -1
+    },
+    {
+      "PageName": "furni",
+      "OfferId": -1
+    },
+    {
+      "PageName": "credit_exchange",
+      "OfferId": 18515
+    },
+    {
+      "PageName": "2020_hotnow",
+      "OfferId": -1
+    },
+    {
+      "PageName": "easter21new",
+      "OfferId": 18683
+    },
+    {
+      "PageName": "easter21craft",
+      "OfferId": -1
+    },
+    {
+      "PageName": "easter21craft2",
+      "OfferId": 18675
+    },
+    {
+      "PageName": "oldeasterfurni",
+      "OfferId": 17477
+    },
+    {
+      "PageName": "2020_roombundles",
+      "OfferId": -1
+    },
+    {
+      "PageName": "hb20artbundle2",
+      "OfferId": 17970
+    },
+    {
+      "PageName": "hb20artbundle",
+      "OfferId": 17987
+    },
+    {
+      "PageName": "easter18garden2",
+      "OfferId": 15762
+    },
+    {
+      "PageName": "easter18garden",
+      "OfferId": 15757
+    },
+    {
+      "PageName": "mar14photo2",
+      "OfferId": 18778
+    },
+    {
+      "PageName": "mar14photo",
+      "OfferId": 9106
+    },
+    {
+      "PageName": "may20baby1",
+      "OfferId": 17699
+    },
+    {
+      "PageName": "may20baby2",
+      "OfferId": 17701
+    },
+    {
+      "PageName": "may20baby4",
+      "OfferId": 17693
+    },
+    {
+      "PageName": "may20baby3",
+      "OfferId": 17697
+    },
+    {
+      "PageName": "may20baby5",
+      "OfferId": 17695
+    },
+    {
+      "PageName": "room_ad",
+      "OfferId": 7290
+    },
+    {
+      "PageName": "2020_bytype",
+      "OfferId": -1
+    },
+    {
+      "PageName": "bots",
+      "OfferId": 7299
+    },
+    {
+      "PageName": "wired_triggers",
+      "OfferId": 4981
+    },
+    {
+      "PageName": "wired_effects",
+      "OfferId": 4963
+    },
+    {
+      "PageName": "wired_conditions",
+      "OfferId": 6330
+    },
+    {
+      "PageName": "wired_addons",
+      "OfferId": 13459
+    },
+    {
+      "PageName": "wired_leaderboard",
+      "OfferId": 8050
+    },
+    {
+      "PageName": "sound_fx",
+      "OfferId": 7364
+    },
+    {
+      "PageName": "trax_jukebox",
+      "OfferId": 13448
+    },
+    {
+      "PageName": "trax_songs",
+      "OfferId": 14345
+    },
+    {
+      "PageName": "set_extras",
+      "OfferId": 13499
+    },
+    {
+      "PageName": "badge_display",
+      "OfferId": 7944
+    },
+    {
+      "PageName": "dynamic_product_category_bed",
+      "OfferId": -1
+    },
+    {
+      "PageName": "set_rugs",
+      "OfferId": 13464
+    },
+    {
+      "PageName": "dynamic_product_category_chair",
+      "OfferId": -1
+    },
+    {
+      "PageName": "set_dimmer",
+      "OfferId": 13347
+    },
+    {
+      "PageName": "dynamic_product_category_vending_machine",
+      "OfferId": -1
+    },
+    {
+      "PageName": "dynamic_product_category_divider",
+      "OfferId": -1
+    },
+    {
+      "PageName": "dynamic_product_category_floor",
+      "OfferId": -1
+    },
+    {
+      "PageName": "dynamic_product_category_lighting",
+      "OfferId": -1
+    },
+    {
+      "PageName": "set_rollers",
+      "OfferId": 13425
+    },
+    {
+      "PageName": "dynamic_product_category_table",
+      "OfferId": -1
+    },
+    {
+      "PageName": "spaces_grid",
+      "OfferId": 5466
+    },
+    {
+      "PageName": "set_teleports2",
+      "OfferId": 13420
+    },
+    {
+      "PageName": "palooza_tents",
+      "OfferId": 13367
+    },
+    {
+      "PageName": "set_trophies",
+      "OfferId": 433
+    },
+    {
+      "PageName": "set_posters",
+      "OfferId": 13621
+    },
+    {
+      "PageName": "set_windows",
+      "OfferId": 13391
+    },
+    {
+      "PageName": "2020_bydesign",
+      "OfferId": -1
+    },
+    {
+      "PageName": "set_anna",
+      "OfferId": 13596
+    },
+    {
+      "PageName": "set_pixelnew",
+      "OfferId": 13577
+    },
+    {
+      "PageName": "set_bath",
+      "OfferId": 13517
+    },
+    {
+      "PageName": "set_picnic",
+      "OfferId": 13547
+    },
+    {
+      "PageName": "set_cubie",
+      "OfferId": 13521
+    },
+    {
+      "PageName": "bc_gardening",
+      "OfferId": 8395
+    },
+    {
+      "PageName": "bc_university",
+      "OfferId": 13645
+    },
+    {
+      "PageName": "healthspa",
+      "OfferId": 13621
+    },
+    {
+      "PageName": "set_iced",
+      "OfferId": 13610
+    },
+    {
+      "PageName": "ktchn15",
+      "OfferId": 13699
+    },
+    {
+      "PageName": "set_lodge",
+      "OfferId": 3214
+    },
+    {
+      "PageName": "set_mode",
+      "OfferId": 13705
+    },
+    {
+      "PageName": "set_neon",
+      "OfferId": 13725
+    },
+    {
+      "PageName": "set_pool",
+      "OfferId": 13997
+    },
+    {
+      "PageName": "set_pura",
+      "OfferId": 13729
+    },
+    {
+      "PageName": "hb20rain",
+      "OfferId": 17707
+    },
+    {
+      "PageName": "set_usva",
+      "OfferId": 8701
+    },
+    {
+      "PageName": "2020_byenvironment",
+      "OfferId": -1
+    },
+    {
+      "PageName": "guild_frontpage",
+      "OfferId": -1
+    },
+    {
+      "PageName": "guild_custom_furni",
+      "OfferId": 13380
+    },
+    {
+      "PageName": "guild_forum",
+      "OfferId": 9300
+    },
+    {
+      "PageName": "dynamic_product_environment_bathroom",
+      "OfferId": -1
+    },
+    {
+      "PageName": "dynamic_product_environment_countryside",
+      "OfferId": -1
+    },
+    {
+      "PageName": "dynamic_product_environment_kitchen",
+      "OfferId": -1
+    },
+    {
+      "PageName": "monkey_furni",
+      "OfferId": 13424
+    },
+    {
+      "PageName": "dynamic_product_environment_nature",
+      "OfferId": -1
+    },
+    {
+      "PageName": "gameset_battle_banzai",
+      "OfferId": 13429
+    },
+    {
+      "PageName": "gameset_freeze",
+      "OfferId": 13463
+    },
+    {
+      "PageName": "gameset_football",
+      "OfferId": 13924
+    },
+    {
+      "PageName": "gameset_snowboard",
+      "OfferId": 13586
+    },
+    {
+      "PageName": "gameset_ice_hockey",
+      "OfferId": 13518
+    },
+    {
+      "PageName": "gameset_ice_tagging",
+      "OfferId": 13764
+    },
+    {
+      "PageName": "gameset_roller_skates",
+      "OfferId": 5186
+    },
+    {
+      "PageName": "2020_hcexclusives",
+      "OfferId": -1
+    },
+    {
+      "PageName": "club_shop",
+      "OfferId": 13376
+    },
+    {
+      "PageName": "set_blackhole",
+      "OfferId": 13449
+    },
+    {
+      "PageName": "marketplace_info",
+      "OfferId": -1
+    },
+    {
+      "PageName": "martketplace_my_sales",
+      "OfferId": -1
+    },
+    {
+      "PageName": "marketplace_offers",
+      "OfferId": -1
+    },
+    {
+      "PageName": "clothing",
+      "OfferId": -1
+    },
+    {
+      "PageName": "clothing_new",
+      "OfferId": 18648
+    },
+    {
+      "PageName": "clothing_outfits",
+      "OfferId": 13382
+    },
+    {
+      "PageName": "clothing_hairstyles",
+      "OfferId": 13446
+    },
+    {
+      "PageName": "clothing_hats",
+      "OfferId": 13439
+    },
+    {
+      "PageName": "clothing_accessories",
+      "OfferId": 13451
+    },
+    {
+      "PageName": "clothing_dresses",
+      "OfferId": 14336
+    },
+    {
+      "PageName": "clothing_shirts",
+      "OfferId": 14341
+    },
+    {
+      "PageName": "clothing_jackets",
+      "OfferId": 13435
+    },
+    {
+      "PageName": "clothing_trousers",
+      "OfferId": 13417
+    },
+    {
+      "PageName": "clothing_skirts",
+      "OfferId": 13416
+    },
+    {
+      "PageName": "clothing_shoes",
+      "OfferId": 14333
+    },
+    {
+      "PageName": "ny2015_permeffects",
+      "OfferId": 14348
+    },
+    {
+      "PageName": "temp_effects",
+      "OfferId": 18051
+    },
+    {
+      "PageName": "pets_new",
+      "OfferId": -1
+    },
+    {
+      "PageName": "pets_info",
+      "OfferId": -1
+    },
+    {
+      "PageName": "golden_cow",
+      "OfferId": 14976
+    },
+    {
+      "PageName": "pet_cow",
+      "OfferId": 14909
+    },
+    {
+      "PageName": "pet_gnome",
+      "OfferId": 8788
+    },
+    {
+      "PageName": "pet_chick",
+      "OfferId": 5430
+    },
+    {
+      "PageName": "candyland15_obbah",
+      "OfferId": 11783
+    },
+    {
+      "PageName": "pet_horse",
+      "OfferId": 6122
+    },
+    {
+      "PageName": "pet_monkey",
+      "OfferId": 5978
+    },
+    {
+      "PageName": "pet_raptor",
+      "OfferId": 12042
+    },
+    {
+      "PageName": "pet_pterosaur",
+      "OfferId": 12043
+    },
+    {
+      "PageName": "pet_polar_bear",
+      "OfferId": 4213
+    },
+    {
+      "PageName": "pet_dragon",
+      "OfferId": 5848
+    },
+    {
+      "PageName": "pet_terrier",
+      "OfferId": 4212
+    },
+    {
+      "PageName": "pet_lion",
+      "OfferId": 4760
+    },
+    {
+      "PageName": "pet_turtle",
+      "OfferId": 5934
+    },
+    {
+      "PageName": "pet_crocodile",
+      "OfferId": 1316
+    },
+    {
+      "PageName": "pet_rhino",
+      "OfferId": 4761
+    },
+    {
+      "PageName": "pet_spider",
+      "OfferId": 5251
+    },
+    {
+      "PageName": "pet_dog",
+      "OfferId": 456
+    },
+    {
+      "PageName": "pet_cat",
+      "OfferId": 457
+    },
+    {
+      "PageName": "pet_boar",
+      "OfferId": 4214
+    },
+    {
+      "PageName": "pet_frog",
+      "OfferId": 5266
+    },
+    {
+      "PageName": "babypets_info",
+      "OfferId": -1
+    },
+    {
+      "PageName": "pet_puppy",
+      "OfferId": 10032
+    },
+    {
+      "PageName": "pet_kitten",
+      "OfferId": 10031
+    },
+    {
+      "PageName": "pet_piglet",
+      "OfferId": 10033
+    },
+    {
+      "PageName": "pets_pet_equipment",
+      "OfferId": -1
+    },
+    {
+      "PageName": "baby_pet_accessories",
+      "OfferId": 7794
+    },
+    {
+      "PageName": "horse_saddle",
+      "OfferId": 6232
+    },
+    {
+      "PageName": "horse_dyes",
+      "OfferId": 13469
+    },
+    {
+      "PageName": "horse_styles",
+      "OfferId": 13381
+    },
+    {
+      "PageName": "horse_jump_pilot",
+      "OfferId": 13369
+    },
+    {
+      "PageName": "monster_plants_info",
+      "OfferId": -1
+    },
+    {
+      "PageName": "monster_plant_seeds",
+      "OfferId": 8422
+    },
+    {
+      "PageName": "monster_plant_potions",
+      "OfferId": 8433
+    },
+    {
+      "PageName": "habbo_club_desktop",
+      "OfferId": -1
+    },
+    {
+      "PageName": "hc_membership",
+      "OfferId": -1
+    },
+    {
+      "PageName": "builders_club_frontpage",
+      "OfferId": 8807
+    },
+    {
+      "PageName": "loyalty_bc",
+      "OfferId": 9433
+    },
+    {
+      "PageName": "builders_upgrades",
+      "OfferId": 8758
+    },
+    {
+      "PageName": "bchc_boxes",
+      "OfferId": 15640
+    }
+  ]
+}
