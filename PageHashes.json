@@ -1,7 +1,7 @@
 {
-  "Date": "210429133742",
+  "Date": "210429164637",
   "Type": "NORMAL",
-  "Count": 146,
+  "Count": 148,
   "Items": [
     {
       "PageName": "root",
@@ -38,6 +38,14 @@
     {
       "PageName": "oldeasterfurni",
       "OfferId": 17477
+    },
+    {
+      "PageName": "2020_rares",
+      "OfferId": -1
+    },
+    {
+      "PageName": "ler",
+      "OfferId": 18796
     },
     {
       "PageName": "2020_roombundles",
