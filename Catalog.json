@@ -298,7 +298,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
               "PageName": "easter18coop2",
               "Localization": "Chicken Coop Bundle",
@@ -308,7 +308,7 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
               "PageName": "easter18coop",
               "Localization": "Lote Gallinero",
@@ -338,7 +338,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "easter18garden2",
               "Localization": "Lote Invernadero",
@@ -348,7 +348,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "easter18garden",
               "Localization": "Lote Invernadero",
