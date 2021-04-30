@@ -308,7 +308,7 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 42,
               "PageName": "rare",
               "Localization": "Raros",
