@@ -56,6 +56,30 @@
           "OfferIds": [],
           "Childrens": [
             {
+              "Visible": false,
+              "Icon": 297,
+              "PageName": "may21new",
+              "Localization": "¡Ítems Victorianos!",
+              "OfferIds": [
+                18774,
+                18776,
+                18771,
+                18760,
+                18766,
+                18762,
+                18763,
+                18775,
+                18761,
+                18773,
+                18764,
+                18765,
+                18772,
+                18769,
+                18767
+              ],
+              "Childrens": []
+            },
+            {
               "Visible": true,
               "Icon": 296,
               "PageName": "easter21new",
@@ -327,6 +351,26 @@
           "OfferIds": [],
           "Childrens": [
             {
+              "Visible": false,
+              "Icon": 268,
+              "PageName": "may21ba2",
+              "Localization": "Victorian Crime Scene Bundle",
+              "OfferIds": [
+                18794
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": false,
+              "Icon": 268,
+              "PageName": "may21ba",
+              "Localization": "Lote Escena del Crimen Victoriana",
+              "OfferIds": [
+                18793
+              ],
+              "Childrens": []
+            },
+            {
               "Visible": true,
               "Icon": 268,
               "PageName": "easter18coop2",
@@ -363,26 +407,6 @@
               "Localization": "Lote Art Deco",
               "OfferIds": [
                 17987
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "easter18garden2",
-              "Localization": "Lote Invernadero",
-              "OfferIds": [
-                15762
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "easter18garden",
-              "Localization": "Lote Invernadero",
-              "OfferIds": [
-                15757
               ],
               "Childrens": []
             },
@@ -2953,6 +2977,7 @@
             18674,
             18660,
             18693,
+            18759,
             18682,
             18688,
             18653,
@@ -2977,6 +3002,7 @@
           "OfferIds": [
             13382,
             13387,
+            18759,
             15117,
             15165,
             14493,
