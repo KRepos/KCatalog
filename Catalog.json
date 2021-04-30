@@ -306,6 +306,16 @@
                 18796
               ],
               "Childrens": []
+            },
+            {
+              "Visible": false,
+              "Icon": 42,
+              "PageName": "rare",
+              "Localization": "Raros",
+              "OfferIds": [
+                18841
+              ],
+              "Childrens": []
             }
           ]
         },
