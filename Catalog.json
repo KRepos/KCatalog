@@ -3483,7 +3483,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 255,
               "PageName": "candyland15_obbah",
               "Localization": "Obbah Wobbah",
