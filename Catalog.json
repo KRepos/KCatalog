@@ -382,7 +382,7 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
               "PageName": "easter18coop",
               "Localization": "Lote Gallinero",
