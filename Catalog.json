@@ -323,7 +323,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
               "PageName": "xmas17street2",
               "Localization": "Lote calle victoriana",
@@ -333,7 +333,7 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
               "PageName": "xmas17street",
               "Localization": "Lote calle victoriana",
