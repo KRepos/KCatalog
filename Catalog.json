@@ -363,7 +363,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "easter18coop2",
               "Localization": "Chicken Coop Bundle",
@@ -373,7 +373,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "easter18coop",
               "Localization": "Lote Gallinero",
