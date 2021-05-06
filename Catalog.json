@@ -317,40 +317,31 @@
         },
         {
           "Visible": true,
-          "Icon": 42,
-          "PageName": "2020_rares",
-          "Localization": "Raros",
-          "OfferIds": [],
-          "Childrens": [
-            {
-              "Visible": true,
-              "Icon": 145,
-              "PageName": "ler",
-              "Localization": "Raros de edición limitada",
-              "OfferIds": [
-                18796
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 42,
-              "PageName": "rare",
-              "Localization": "Raros",
-              "OfferIds": [
-                18841
-              ],
-              "Childrens": []
-            }
-          ]
-        },
-        {
-          "Visible": true,
           "Icon": 268,
           "PageName": "2020_roombundles",
           "Localization": "Lotes",
           "OfferIds": [],
           "Childrens": [
+            {
+              "Visible": false,
+              "Icon": 268,
+              "PageName": "xmas17street2",
+              "Localization": "Lote calle victoriana",
+              "OfferIds": [
+                15483
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": false,
+              "Icon": 268,
+              "PageName": "xmas17street",
+              "Localization": "Lote calle victoriana",
+              "OfferIds": [
+                15491
+              ],
+              "Childrens": []
+            },
             {
               "Visible": true,
               "Icon": 268,
@@ -388,26 +379,6 @@
               "Localization": "Lote Gallinero",
               "OfferIds": [
                 14850
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "hb20artbundle2",
-              "Localization": "20th Birthday Bundle",
-              "OfferIds": [
-                17970
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "hb20artbundle",
-              "Localization": "Lote Art Deco",
-              "OfferIds": [
-                17987
               ],
               "Childrens": []
             },
