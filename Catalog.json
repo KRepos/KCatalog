@@ -136,7 +136,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 42,
               "PageName": "may21r1",
               "Localization": "RARO Traje Detectivesco",
@@ -175,7 +175,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "may21ba2",
               "Localization": "Victorian Crime Scene Bundle",
@@ -185,7 +185,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "may21ba",
               "Localization": "Lote Escena del Crimen Victoriana",
