@@ -1,12 +1,8 @@
 {
-  "Date": "210510105900",
+  "Date": "210510112039",
   "Type": "NORMAL",
-  "Count": 2411,
+  "Count": 2410,
   "Items": [
-    {
-      "PageName": "may21r1",
-      "OfferId": 18843
-    },
     {
       "PageName": "may21ba2",
       "OfferId": 18794
@@ -748,6 +744,14 @@
       "OfferId": 16192
     },
     {
+      "PageName": "sep18zen2",
+      "OfferId": 16184
+    },
+    {
+      "PageName": "sep18zen",
+      "OfferId": 16180
+    },
+    {
       "PageName": "clothing_skirts",
       "OfferId": 16051
     },
@@ -930,14 +934,6 @@
     {
       "PageName": "set_pura",
       "OfferId": 14875
-    },
-    {
-      "PageName": "easter18coop",
-      "OfferId": 14850
-    },
-    {
-      "PageName": "easter18coop2",
-      "OfferId": 14844
     },
     {
       "PageName": "clothing_hairstyles",

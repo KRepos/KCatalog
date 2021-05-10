@@ -130,30 +130,31 @@
         },
         {
           "Visible": true,
-          "Icon": 42,
-          "PageName": "2020_rares",
-          "Localization": "Raros",
-          "OfferIds": [],
-          "Childrens": [
-            {
-              "Visible": false,
-              "Icon": 42,
-              "PageName": "may21r1",
-              "Localization": "RARO Traje Detectivesco",
-              "OfferIds": [
-                18843
-              ],
-              "Childrens": []
-            }
-          ]
-        },
-        {
-          "Visible": true,
           "Icon": 268,
           "PageName": "2020_roombundles",
           "Localization": "Lotes",
           "OfferIds": [],
           "Childrens": [
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "sep18zen2",
+              "Localization": "Lote Jardín Zen",
+              "OfferIds": [
+                16184
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "sep18zen",
+              "Localization": "Lote Jardín Zen",
+              "OfferIds": [
+                16180
+              ],
+              "Childrens": []
+            },
             {
               "Visible": true,
               "Icon": 268,
@@ -191,26 +192,6 @@
               "Localization": "Lote Escena del Crimen Victoriana",
               "OfferIds": [
                 18793
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "easter18coop2",
-              "Localization": "Chicken Coop Bundle",
-              "OfferIds": [
-                14844
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "easter18coop",
-              "Localization": "Lote Gallinero",
-              "OfferIds": [
-                14850
               ],
               "Childrens": []
             },
