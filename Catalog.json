@@ -130,6 +130,25 @@
         },
         {
           "Visible": true,
+          "Icon": 42,
+          "PageName": "2020_rares",
+          "Localization": "Raros",
+          "OfferIds": [],
+          "Childrens": [
+            {
+              "Visible": false,
+              "Icon": 42,
+              "PageName": "rare2",
+              "Localization": "Raros",
+              "OfferIds": [
+                18847
+              ],
+              "Childrens": []
+            }
+          ]
+        },
+        {
+          "Visible": true,
           "Icon": 268,
           "PageName": "2020_roombundles",
           "Localization": "Lotes",
