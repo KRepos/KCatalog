@@ -26,7 +26,6 @@
           "PageName": "credit_exchange",
           "Localization": "Furni Créditos",
           "OfferIds": [
-            18514,
             14169,
             14342,
             1274,
@@ -195,72 +194,52 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
-              "PageName": "may21ba2",
-              "Localization": "Victorian Crime Scene Bundle",
+              "PageName": "may21baby1",
+              "Localization": "Lote Hogar del Gatito",
               "OfferIds": [
-                18794
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "may21ba",
-              "Localization": "Lote Escena del Crimen Victoriana",
-              "OfferIds": [
-                18793
+                18861
               ],
               "Childrens": []
             },
             {
               "Visible": true,
               "Icon": 268,
-              "PageName": "may20baby1",
-              "Localization": "Lote Hábitat de gatito",
+              "PageName": "may21baby3",
+              "Localization": "Lote Hogar del Cerdito",
               "OfferIds": [
-                17699
+                18855
               ],
               "Childrens": []
             },
             {
               "Visible": true,
               "Icon": 268,
-              "PageName": "may20baby3",
-              "Localization": "Lote Hábitat de cerdito",
+              "PageName": "may21baby4",
+              "Localization": "Lote Hogar del Osito Polar",
               "OfferIds": [
-                17697
+                18857
               ],
               "Childrens": []
             },
             {
               "Visible": true,
               "Icon": 268,
-              "PageName": "may20baby4",
-              "Localization": "Lote Hábitat de oso polar",
+              "PageName": "may21baby5",
+              "Localization": "Lote Hogar del Terrier",
               "OfferIds": [
-                17693
+                18853
               ],
               "Childrens": []
             },
             {
               "Visible": true,
               "Icon": 268,
-              "PageName": "may20baby5",
-              "Localization": "Lote Hábitat de terrier",
+              "PageName": "may21baby2",
+              "Localization": "Lote Hogar del Perrito",
               "OfferIds": [
-                17695
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": true,
-              "Icon": 268,
-              "PageName": "may20baby2",
-              "Localization": "Lote Hábitat de perrito",
-              "OfferIds": [
-                17701
+                18859
               ],
               "Childrens": []
             }
