@@ -154,6 +154,26 @@
           "OfferIds": [],
           "Childrens": [
             {
+              "Visible": false,
+              "Icon": 268,
+              "PageName": "xmas17inhouse2",
+              "Localization": "Lote Sala de Estar Confortable",
+              "OfferIds": [
+                15489
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "xmas17inhouse",
+              "Localization": "Lote Sala de Estar Confortable",
+              "OfferIds": [
+                15492
+              ],
+              "Childrens": []
+            },
+            {
               "Visible": true,
               "Icon": 268,
               "PageName": "sep18zen2",
