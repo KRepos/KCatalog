@@ -154,7 +154,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
               "PageName": "xmas17inhouse2",
               "Localization": "Lote Sala de Estar Confortable",
