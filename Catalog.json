@@ -135,7 +135,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 42,
               "PageName": "rare2",
               "Localization": "Raros",
