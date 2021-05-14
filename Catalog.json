@@ -135,7 +135,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 42,
               "PageName": "may21r2",
               "Localization": "RARO Ondas Arácnicas",
