@@ -137,6 +137,16 @@
             {
               "Visible": false,
               "Icon": 42,
+              "PageName": "may21r2",
+              "Localization": "RARO Ondas Arácnicas",
+              "OfferIds": [
+                18862
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": false,
+              "Icon": 42,
               "PageName": "rare2",
               "Localization": "Raros",
               "OfferIds": [
