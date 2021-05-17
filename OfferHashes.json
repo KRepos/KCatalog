@@ -1,12 +1,8 @@
 {
-  "Date": "2021-05-14 13-00-00",
+  "Date": "2021-05-17 18-16-22",
   "Type": "NORMAL",
-  "Count": 2411,
+  "Count": 2407,
   "Items": [
-    {
-      "PageName": "may21r2",
-      "OfferId": 18862
-    },
     {
       "PageName": "may21baby1",
       "OfferId": 18861
@@ -26,10 +22,6 @@
     {
       "PageName": "may21baby5",
       "OfferId": 18853
-    },
-    {
-      "PageName": "rare2",
-      "OfferId": 18847
     },
     {
       "PageName": "may21new",
@@ -612,6 +604,10 @@
       "OfferId": 16497
     },
     {
+      "PageName": "attic_bundle2",
+      "OfferId": 16471
+    },
+    {
       "PageName": "space_landscape",
       "OfferId": 16414
     },
@@ -740,14 +736,6 @@
       "OfferId": 16192
     },
     {
-      "PageName": "sep18zen2",
-      "OfferId": 16184
-    },
-    {
-      "PageName": "sep18zen",
-      "OfferId": 16180
-    },
-    {
       "PageName": "clothing_skirts",
       "OfferId": 16051
     },
@@ -844,16 +832,8 @@
       "OfferId": 15492
     },
     {
-      "PageName": "xmas17street",
-      "OfferId": 15491
-    },
-    {
       "PageName": "xmas17inhouse2",
       "OfferId": 15489
-    },
-    {
-      "PageName": "xmas17street2",
-      "OfferId": 15483
     },
     {
       "PageName": "clothing_accessories",
@@ -3810,6 +3790,10 @@
     {
       "PageName": "clothing_shoes",
       "OfferId": 11550
+    },
+    {
+      "PageName": "attic_bundle",
+      "OfferId": 11485
     },
     {
       "PageName": "clothing_outfits",

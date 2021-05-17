@@ -129,40 +129,31 @@
         },
         {
           "Visible": true,
-          "Icon": 42,
-          "PageName": "2020_rares",
-          "Localization": "Raros",
-          "OfferIds": [],
-          "Childrens": [
-            {
-              "Visible": true,
-              "Icon": 42,
-              "PageName": "may21r2",
-              "Localization": "RARO Ondas Arácnicas",
-              "OfferIds": [
-                18862
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 42,
-              "PageName": "rare2",
-              "Localization": "Raros",
-              "OfferIds": [
-                18847
-              ],
-              "Childrens": []
-            }
-          ]
-        },
-        {
-          "Visible": true,
           "Icon": 268,
           "PageName": "2020_roombundles",
           "Localization": "Lotes",
           "OfferIds": [],
           "Childrens": [
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "attic_bundle2",
+              "Localization": "Lote Desván",
+              "OfferIds": [
+                16471
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "attic_bundle",
+              "Localization": "Lote Desván",
+              "OfferIds": [
+                11485
+              ],
+              "Childrens": []
+            },
             {
               "Visible": true,
               "Icon": 268,
@@ -180,46 +171,6 @@
               "Localization": "Lote Sala de Estar Confortable",
               "OfferIds": [
                 15492
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": true,
-              "Icon": 268,
-              "PageName": "sep18zen2",
-              "Localization": "Lote Jardín Zen",
-              "OfferIds": [
-                16184
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": true,
-              "Icon": 268,
-              "PageName": "sep18zen",
-              "Localization": "Lote Jardín Zen",
-              "OfferIds": [
-                16180
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "xmas17street2",
-              "Localization": "Lote calle victoriana",
-              "OfferIds": [
-                15483
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "xmas17street",
-              "Localization": "Lote calle victoriana",
-              "OfferIds": [
-                15491
               ],
               "Childrens": []
             },
