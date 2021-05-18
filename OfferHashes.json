@@ -1,5 +1,5 @@
 {
-  "Date": "2021-05-17 18-16-22",
+  "Date": "2021-05-18 13-02-16",
   "Type": "NORMAL",
   "Count": 2407,
   "Items": [
@@ -168,6 +168,50 @@
       "OfferId": 18637
     },
     {
+      "PageName": "set_posters",
+      "OfferId": 18525
+    },
+    {
+      "PageName": "set_posters",
+      "OfferId": 18524
+    },
+    {
+      "PageName": "set_posters",
+      "OfferId": 18523
+    },
+    {
+      "PageName": "set_posters",
+      "OfferId": 18522
+    },
+    {
+      "PageName": "set_posters",
+      "OfferId": 18521
+    },
+    {
+      "PageName": "set_posters",
+      "OfferId": 18520
+    },
+    {
+      "PageName": "set_posters",
+      "OfferId": 18519
+    },
+    {
+      "PageName": "set_posters",
+      "OfferId": 18512
+    },
+    {
+      "PageName": "set_posters",
+      "OfferId": 18511
+    },
+    {
+      "PageName": "set_posters",
+      "OfferId": 18510
+    },
+    {
+      "PageName": "set_posters",
+      "OfferId": 18509
+    },
+    {
       "PageName": "clothing_accessories",
       "OfferId": 18489
     },
@@ -306,50 +350,6 @@
     {
       "PageName": "clothing_hats",
       "OfferId": 17669
-    },
-    {
-      "PageName": "set_posters",
-      "OfferId": 17662
-    },
-    {
-      "PageName": "set_posters",
-      "OfferId": 17661
-    },
-    {
-      "PageName": "set_posters",
-      "OfferId": 17660
-    },
-    {
-      "PageName": "set_posters",
-      "OfferId": 17659
-    },
-    {
-      "PageName": "set_posters",
-      "OfferId": 17658
-    },
-    {
-      "PageName": "set_posters",
-      "OfferId": 17657
-    },
-    {
-      "PageName": "set_posters",
-      "OfferId": 17656
-    },
-    {
-      "PageName": "set_posters",
-      "OfferId": 17654
-    },
-    {
-      "PageName": "set_posters",
-      "OfferId": 17653
-    },
-    {
-      "PageName": "set_posters",
-      "OfferId": 17652
-    },
-    {
-      "PageName": "set_posters",
-      "OfferId": 17651
     },
     {
       "PageName": "clothing_hats",
