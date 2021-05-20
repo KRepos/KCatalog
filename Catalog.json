@@ -135,12 +135,22 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
-              "PageName": "attic_bundle2",
-              "Localization": "Lote Desván",
+              "PageName": "ghost16dressing2",
+              "Localization": "Lote Vestidor de los Horrores",
               "OfferIds": [
-                16471
+                14458
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": false,
+              "Icon": 268,
+              "PageName": "ghost16dressing",
+              "Localization": "Lote Vestidor de los Horrores",
+              "OfferIds": [
+                14462
               ],
               "Childrens": []
             },
@@ -151,6 +161,16 @@
               "Localization": "Lote Desván",
               "OfferIds": [
                 11485
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "attic_bundle2",
+              "Localization": "Lote Desván",
+              "OfferIds": [
+                16471
               ],
               "Childrens": []
             },
