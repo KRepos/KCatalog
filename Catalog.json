@@ -129,13 +129,32 @@
         },
         {
           "Visible": true,
+          "Icon": 42,
+          "PageName": "2020_rares",
+          "Localization": "Raros",
+          "OfferIds": [],
+          "Childrens": [
+            {
+              "Visible": true,
+              "Icon": 42,
+              "PageName": "may21r3",
+              "Localization": "RARO Gorila Espalda Plateada",
+              "OfferIds": [
+                18864
+              ],
+              "Childrens": []
+            }
+          ]
+        },
+        {
+          "Visible": true,
           "Icon": 268,
           "PageName": "2020_roombundles",
           "Localization": "Lotes",
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
               "PageName": "ghost16dressing2",
               "Localization": "Lote Vestidor de los Horrores",
@@ -145,7 +164,7 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
               "PageName": "ghost16dressing",
               "Localization": "Lote Vestidor de los Horrores",
@@ -175,7 +194,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "xmas17inhouse2",
               "Localization": "Lote Sala de Estar Confortable",
