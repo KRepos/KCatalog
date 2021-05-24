@@ -129,30 +129,31 @@
         },
         {
           "Visible": true,
-          "Icon": 42,
-          "PageName": "2020_rares",
-          "Localization": "Raros",
-          "OfferIds": [],
-          "Childrens": [
-            {
-              "Visible": false,
-              "Icon": 42,
-              "PageName": "may21r3",
-              "Localization": "RARO Gorila Espalda Plateada",
-              "OfferIds": [
-                18864
-              ],
-              "Childrens": []
-            }
-          ]
-        },
-        {
-          "Visible": true,
           "Icon": 268,
           "PageName": "2020_roombundles",
           "Localization": "Lotes",
           "OfferIds": [],
           "Childrens": [
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "jan17train2",
+              "Localization": "Lote Tren de la Frontera",
+              "OfferIds": [
+                12339
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "jan17train",
+              "Localization": "Lote Tren de la Frontera",
+              "OfferIds": [
+                9590
+              ],
+              "Childrens": []
+            },
             {
               "Visible": true,
               "Icon": 268,
@@ -190,26 +191,6 @@
               "Localization": "Lote Desván",
               "OfferIds": [
                 16471
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "xmas17inhouse2",
-              "Localization": "Lote Sala de Estar Confortable",
-              "OfferIds": [
-                15489
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": true,
-              "Icon": 268,
-              "PageName": "xmas17inhouse",
-              "Localization": "Lote Sala de Estar Confortable",
-              "OfferIds": [
-                15492
               ],
               "Childrens": []
             },

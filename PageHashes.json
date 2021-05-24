@@ -1,7 +1,7 @@
 {
-  "Date": "2021-05-24 12-59-00",
+  "Date": "2021-05-24 13-01-24",
   "Type": "NORMAL",
-  "Count": 148,
+  "Count": 146,
   "Items": [
     {
       "PageName": "root",
@@ -32,16 +32,16 @@
       "OfferId": 14107
     },
     {
-      "PageName": "2020_rares",
-      "OfferId": -1
-    },
-    {
-      "PageName": "may21r3",
-      "OfferId": 18864
-    },
-    {
       "PageName": "2020_roombundles",
       "OfferId": -1
+    },
+    {
+      "PageName": "jan17train2",
+      "OfferId": 12339
+    },
+    {
+      "PageName": "jan17train",
+      "OfferId": 9590
     },
     {
       "PageName": "ghost16dressing2",
@@ -58,14 +58,6 @@
     {
       "PageName": "attic_bundle2",
       "OfferId": 16471
-    },
-    {
-      "PageName": "xmas17inhouse2",
-      "OfferId": 15489
-    },
-    {
-      "PageName": "xmas17inhouse",
-      "OfferId": 15492
     },
     {
       "PageName": "may21baby1",
