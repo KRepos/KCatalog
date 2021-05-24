@@ -135,7 +135,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 42,
               "PageName": "may21r3",
               "Localization": "RARO Gorila Espalda Plateada",
@@ -174,7 +174,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "attic_bundle",
               "Localization": "Lote Desván",
@@ -184,7 +184,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "attic_bundle2",
               "Localization": "Lote Desván",
