@@ -1,7 +1,7 @@
 {
-  "Date": "2021-05-24 13-01-24",
+  "Date": "2021-05-26 13-00-44",
   "Type": "NORMAL",
-  "Count": 2409,
+  "Count": 2496,
   "Items": [
     {
       "PageName": "may21baby1",
@@ -1068,6 +1068,14 @@
       "OfferId": 14169
     },
     {
+      "PageName": "bc_area",
+      "OfferId": 14136
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 14124
+    },
+    {
       "PageName": "set_pool",
       "OfferId": 14120
     },
@@ -1082,6 +1090,14 @@
     {
       "PageName": "set_pool",
       "OfferId": 14100
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 14095
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 14077
     },
     {
       "PageName": "set_pool",
@@ -1104,12 +1120,20 @@
       "OfferId": 14051
     },
     {
+      "PageName": "bc_area",
+      "OfferId": 14049
+    },
+    {
       "PageName": "set_pool",
       "OfferId": 14043
     },
     {
       "PageName": "set_pool",
       "OfferId": 14042
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 14040
     },
     {
       "PageName": "set_pool",
@@ -1136,8 +1160,20 @@
       "OfferId": 14020
     },
     {
+      "PageName": "bc_area",
+      "OfferId": 14004
+    },
+    {
       "PageName": "set_pool",
       "OfferId": 13997
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 13969
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 13962
     },
     {
       "PageName": "set_pool",
@@ -1156,6 +1192,10 @@
       "OfferId": 13941
     },
     {
+      "PageName": "bc_area",
+      "OfferId": 13929
+    },
+    {
       "PageName": "gameset_football",
       "OfferId": 13924
     },
@@ -1168,6 +1208,10 @@
       "OfferId": 13897
     },
     {
+      "PageName": "bc_area",
+      "OfferId": 13881
+    },
+    {
       "PageName": "set_pool",
       "OfferId": 13871
     },
@@ -1176,8 +1220,16 @@
       "OfferId": 13865
     },
     {
+      "PageName": "bc_area",
+      "OfferId": 13862
+    },
+    {
       "PageName": "bc_urban",
       "OfferId": 13846
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 13844
     },
     {
       "PageName": "gameset_ice_tagging",
@@ -8004,8 +8056,28 @@
       "OfferId": 3274
     },
     {
+      "PageName": "bc_area",
+      "OfferId": 3268
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 3267
+    },
+    {
       "PageName": "set_pura",
       "OfferId": 3254
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 3249
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 3238
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 3237
     },
     {
       "PageName": "set_lodge",
@@ -8640,6 +8712,42 @@
       "OfferId": 1273
     },
     {
+      "PageName": "bc_area",
+      "OfferId": 942
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 935
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 934
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 933
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 932
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 931
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 930
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 929
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 928
+    },
+    {
       "PageName": "set_iced",
       "OfferId": 925
     },
@@ -8940,6 +9048,198 @@
       "OfferId": 806
     },
     {
+      "PageName": "bc_area",
+      "OfferId": 805
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 804
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 803
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 802
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 801
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 800
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 799
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 798
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 797
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 796
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 795
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 794
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 793
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 792
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 791
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 790
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 789
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 788
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 787
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 786
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 785
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 784
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 783
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 782
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 781
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 780
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 779
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 778
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 777
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 776
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 775
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 774
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 773
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 772
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 771
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 770
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 769
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 768
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 767
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 766
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 765
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 764
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 763
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 762
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 761
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 760
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 759
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 758
+    },
+    {
       "PageName": "set_iced",
       "OfferId": 757
     },
@@ -9140,6 +9440,10 @@
       "OfferId": 685
     },
     {
+      "PageName": "bc_area",
+      "OfferId": 684
+    },
+    {
       "PageName": "set_rollers",
       "OfferId": 610
     },
@@ -9336,6 +9640,18 @@
       "OfferId": 247
     },
     {
+      "PageName": "bc_area",
+      "OfferId": 223
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 222
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 221
+    },
+    {
       "PageName": "set_lodge",
       "OfferId": 220
     },
@@ -9410,6 +9726,10 @@
     {
       "PageName": "set_mode",
       "OfferId": 158
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 157
     },
     {
       "PageName": "set_extras",
@@ -9596,12 +9916,28 @@
       "OfferId": 34
     },
     {
+      "PageName": "bc_area",
+      "OfferId": 33
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 32
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 31
+    },
+    {
       "PageName": "set_mode",
       "OfferId": 30
     },
     {
       "PageName": "set_mode",
       "OfferId": 29
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 25
     },
     {
       "PageName": "set_mode",
@@ -9628,8 +9964,20 @@
       "OfferId": 18
     },
     {
+      "PageName": "bc_area",
+      "OfferId": 17
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 11
+    },
+    {
       "PageName": "set_iced",
       "OfferId": 10
+    },
+    {
+      "PageName": "bc_area",
+      "OfferId": 7
     },
     {
       "PageName": "set_mode",
