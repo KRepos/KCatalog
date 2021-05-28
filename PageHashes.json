@@ -1,7 +1,7 @@
 {
-  "Date": "2021-05-27 13-12-28",
+  "Date": "2021-05-28 13-01-15",
   "Type": "NORMAL",
-  "Count": 147,
+  "Count": 149,
   "Items": [
     {
       "PageName": "root",
@@ -42,6 +42,14 @@
     {
       "PageName": "set_pura",
       "OfferId": 13729
+    },
+    {
+      "PageName": "2020_rares",
+      "OfferId": -1
+    },
+    {
+      "PageName": "may21r4",
+      "OfferId": 18875
     },
     {
       "PageName": "2020_roombundles",
