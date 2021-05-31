@@ -1,7 +1,7 @@
 {
-  "Date": "2021-05-31 12-59-00",
+  "Date": "2021-05-31 12-59-31",
   "Type": "NORMAL",
-  "Count": 149,
+  "Count": 139,
   "Items": [
     {
       "PageName": "root",
@@ -24,14 +24,6 @@
       "OfferId": -1
     },
     {
-      "PageName": "may21new",
-      "OfferId": 18774
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 14107
-    },
-    {
       "PageName": "bc_area",
       "OfferId": 13844
     },
@@ -44,40 +36,8 @@
       "OfferId": 13729
     },
     {
-      "PageName": "2020_rares",
-      "OfferId": -1
-    },
-    {
-      "PageName": "may21r4",
-      "OfferId": 18875
-    },
-    {
       "PageName": "2020_roombundles",
       "OfferId": -1
-    },
-    {
-      "PageName": "jan17train2",
-      "OfferId": 12339
-    },
-    {
-      "PageName": "jan17train",
-      "OfferId": 9590
-    },
-    {
-      "PageName": "ghost16dressing2",
-      "OfferId": 14458
-    },
-    {
-      "PageName": "ghost16dressing",
-      "OfferId": 14462
-    },
-    {
-      "PageName": "attic_bundle",
-      "OfferId": 11485
-    },
-    {
-      "PageName": "attic_bundle2",
-      "OfferId": 16471
     },
     {
       "PageName": "may21baby1",

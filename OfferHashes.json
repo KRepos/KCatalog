@@ -1,12 +1,8 @@
 {
-  "Date": "2021-05-31 12-59-00",
+  "Date": "2021-05-31 12-59-31",
   "Type": "NORMAL",
-  "Count": 2497,
+  "Count": 2441,
   "Items": [
-    {
-      "PageName": "may21r4",
-      "OfferId": 18875
-    },
     {
       "PageName": "may21baby1",
       "OfferId": 18861
@@ -26,66 +22,6 @@
     {
       "PageName": "may21baby5",
       "OfferId": 18853
-    },
-    {
-      "PageName": "may21new",
-      "OfferId": 18776
-    },
-    {
-      "PageName": "may21new",
-      "OfferId": 18775
-    },
-    {
-      "PageName": "may21new",
-      "OfferId": 18774
-    },
-    {
-      "PageName": "may21new",
-      "OfferId": 18773
-    },
-    {
-      "PageName": "may21new",
-      "OfferId": 18772
-    },
-    {
-      "PageName": "may21new",
-      "OfferId": 18771
-    },
-    {
-      "PageName": "may21new",
-      "OfferId": 18769
-    },
-    {
-      "PageName": "may21new",
-      "OfferId": 18767
-    },
-    {
-      "PageName": "may21new",
-      "OfferId": 18766
-    },
-    {
-      "PageName": "may21new",
-      "OfferId": 18765
-    },
-    {
-      "PageName": "may21new",
-      "OfferId": 18764
-    },
-    {
-      "PageName": "may21new",
-      "OfferId": 18763
-    },
-    {
-      "PageName": "may21new",
-      "OfferId": 18762
-    },
-    {
-      "PageName": "may21new",
-      "OfferId": 18761
-    },
-    {
-      "PageName": "may21new",
-      "OfferId": 18760
     },
     {
       "PageName": "clothing_new",
@@ -608,10 +544,6 @@
       "OfferId": 16497
     },
     {
-      "PageName": "attic_bundle2",
-      "OfferId": 16471
-    },
-    {
       "PageName": "space_landscape",
       "OfferId": 16414
     },
@@ -972,14 +904,6 @@
       "OfferId": 14484
     },
     {
-      "PageName": "ghost16dressing",
-      "OfferId": 14462
-    },
-    {
-      "PageName": "ghost16dressing2",
-      "OfferId": 14458
-    },
-    {
       "PageName": "temp_effects",
       "OfferId": 14411
     },
@@ -1084,10 +1008,6 @@
       "OfferId": 14120
     },
     {
-      "PageName": "bc_urban",
-      "OfferId": 14107
-    },
-    {
       "PageName": "set_pool",
       "OfferId": 14103
     },
@@ -1118,10 +1038,6 @@
     {
       "PageName": "set_pool",
       "OfferId": 14064
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 14051
     },
     {
       "PageName": "bc_area",
@@ -1188,7 +1104,7 @@
       "OfferId": 13946
     },
     {
-      "PageName": "bc_urban",
+      "PageName": "set_windows",
       "OfferId": 13943
     },
     {
@@ -1202,14 +1118,6 @@
     {
       "PageName": "gameset_football",
       "OfferId": 13924
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 13904
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 13897
     },
     {
       "PageName": "bc_area",
@@ -1226,10 +1134,6 @@
     {
       "PageName": "bc_area",
       "OfferId": 13862
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 13846
     },
     {
       "PageName": "bc_area",
@@ -3560,10 +3464,6 @@
       "OfferId": 12350
     },
     {
-      "PageName": "jan17train2",
-      "OfferId": 12339
-    },
-    {
       "PageName": "bc_university",
       "OfferId": 12243
     },
@@ -3850,10 +3750,6 @@
     {
       "PageName": "clothing_shoes",
       "OfferId": 11550
-    },
-    {
-      "PageName": "attic_bundle",
-      "OfferId": 11485
     },
     {
       "PageName": "clothing_outfits",
@@ -4244,10 +4140,6 @@
       "OfferId": 9625
     },
     {
-      "PageName": "jan17train",
-      "OfferId": 9590
-    },
-    {
       "PageName": "club_shop",
       "OfferId": 9541
     },
@@ -4492,16 +4384,8 @@
       "OfferId": 8395
     },
     {
-      "PageName": "bc_urban",
-      "OfferId": 8357
-    },
-    {
       "PageName": "set_posters",
       "OfferId": 8356
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 8355
     },
     {
       "PageName": "guild_custom_furni",
@@ -5630,38 +5514,6 @@
     {
       "PageName": "baby_pet_accessories",
       "OfferId": 5926
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 5924
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 5923
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 5921
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 5917
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 5916
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 5913
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 5911
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 5909
     },
     {
       "PageName": "set_trophies",
@@ -7844,43 +7696,11 @@
       "OfferId": 4010
     },
     {
-      "PageName": "bc_urban",
-      "OfferId": 3945
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 3943
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 3942
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 3940
-    },
-    {
-      "PageName": "bc_urban",
+      "PageName": "gameset_ice_hockey",
       "OfferId": 3939
     },
     {
-      "PageName": "bc_urban",
-      "OfferId": 3937
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 3935
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 3932
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 3931
-    },
-    {
-      "PageName": "bc_urban",
+      "PageName": "gameset_ice_hockey",
       "OfferId": 3930
     },
     {
@@ -8056,10 +7876,6 @@
       "OfferId": 3281
     },
     {
-      "PageName": "bc_urban",
-      "OfferId": 3274
-    },
-    {
       "PageName": "bc_area",
       "OfferId": 3268
     },
@@ -8196,18 +8012,6 @@
       "OfferId": 2935
     },
     {
-      "PageName": "bc_urban",
-      "OfferId": 2838
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 2836
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 2649
-    },
-    {
       "PageName": "set_trophies",
       "OfferId": 2648
     },
@@ -8274,34 +8078,6 @@
     {
       "PageName": "set_dimmer",
       "OfferId": 2328
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 2277
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 2276
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 1951
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 1949
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 1948
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 1947
-    },
-    {
-      "PageName": "bc_urban",
-      "OfferId": 1946
     },
     {
       "PageName": "trax_jukebox",

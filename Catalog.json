@@ -56,76 +56,6 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": false,
-              "Icon": 297,
-              "PageName": "may21new",
-              "Localization": "¡Ítems Victorianos!",
-              "OfferIds": [
-                18774,
-                18776,
-                18771,
-                18760,
-                18766,
-                18762,
-                18763,
-                18775,
-                18761,
-                18773,
-                18764,
-                18765,
-                18772,
-                18769,
-                18767
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": true,
-              "Icon": 32,
-              "PageName": "bc_urban",
-              "Localization": "Urban",
-              "OfferIds": [
-                14107,
-                3274,
-                13897,
-                13846,
-                14051,
-                13904,
-                13943,
-                3932,
-                3940,
-                3942,
-                3931,
-                3939,
-                3930,
-                3943,
-                3935,
-                3945,
-                3937,
-                1946,
-                1947,
-                1948,
-                1949,
-                1951,
-                2277,
-                2276,
-                8355,
-                8357,
-                2838,
-                5909,
-                5911,
-                5913,
-                5923,
-                5924,
-                5917,
-                5916,
-                5921,
-                2649,
-                2836
-              ],
-              "Childrens": []
-            },
-            {
               "Visible": true,
               "Icon": 14,
               "PageName": "bc_area",
@@ -526,90 +456,11 @@
         },
         {
           "Visible": true,
-          "Icon": 42,
-          "PageName": "2020_rares",
-          "Localization": "Raros",
-          "OfferIds": [],
-          "Childrens": [
-            {
-              "Visible": false,
-              "Icon": 42,
-              "PageName": "may21r4",
-              "Localization": "RARO Gabinete de Curiosidades",
-              "OfferIds": [
-                18875
-              ],
-              "Childrens": []
-            }
-          ]
-        },
-        {
-          "Visible": true,
           "Icon": 268,
           "PageName": "2020_roombundles",
           "Localization": "Lotes",
           "OfferIds": [],
           "Childrens": [
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "jan17train2",
-              "Localization": "Lote Tren de la Frontera",
-              "OfferIds": [
-                12339
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "jan17train",
-              "Localization": "Lote Tren de la Frontera",
-              "OfferIds": [
-                9590
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "ghost16dressing2",
-              "Localization": "Lote Vestidor de los Horrores",
-              "OfferIds": [
-                14458
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "ghost16dressing",
-              "Localization": "Lote Vestidor de los Horrores",
-              "OfferIds": [
-                14462
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "attic_bundle",
-              "Localization": "Lote Desván",
-              "OfferIds": [
-                11485
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "attic_bundle2",
-              "Localization": "Lote Desván",
-              "OfferIds": [
-                16471
-              ],
-              "Childrens": []
-            },
             {
               "Visible": true,
               "Icon": 268,
