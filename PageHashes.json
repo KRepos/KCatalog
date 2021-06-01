@@ -1,7 +1,7 @@
 {
-  "Date": "2021-05-31 12-59-31",
+  "Date": "2021-06-01 13-00-50",
   "Type": "NORMAL",
-  "Count": 139,
+  "Count": 145,
   "Items": [
     {
       "PageName": "root",
@@ -24,6 +24,26 @@
       "OfferId": -1
     },
     {
+      "PageName": "jun21new",
+      "OfferId": 18819
+    },
+    {
+      "PageName": "bc_lostcity",
+      "OfferId": 13906
+    },
+    {
+      "PageName": "bc_coco",
+      "OfferId": 13933
+    },
+    {
+      "PageName": "coral18furni",
+      "OfferId": 15885
+    },
+    {
+      "PageName": "set_pool",
+      "OfferId": 13997
+    },
+    {
       "PageName": "bc_area",
       "OfferId": 13844
     },
@@ -38,6 +58,14 @@
     {
       "PageName": "2020_roombundles",
       "OfferId": -1
+    },
+    {
+      "PageName": "jun21ba2",
+      "OfferId": 18879
+    },
+    {
+      "PageName": "jun21ba",
+      "OfferId": 18880
     },
     {
       "PageName": "may21baby1",
@@ -234,10 +262,6 @@
     {
       "PageName": "set_neon",
       "OfferId": 13725
-    },
-    {
-      "PageName": "set_pool",
-      "OfferId": 13997
     },
     {
       "PageName": "hb20rain",
