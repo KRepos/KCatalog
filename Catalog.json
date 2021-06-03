@@ -57,6 +57,16 @@
           "Childrens": [
             {
               "Visible": true,
+              "Icon": 196,
+              "PageName": "jun21wood",
+              "Localization": "¡Set Ebanista!",
+              "OfferIds": [
+                18825
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
               "Icon": 298,
               "PageName": "jun21new",
               "Localization": "¡Furnis Tailandeses!",
