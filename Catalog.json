@@ -56,7 +56,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 196,
               "PageName": "jun21wood",
               "Localization": "¡Set Ebanista!",
