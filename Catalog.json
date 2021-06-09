@@ -56,6 +56,24 @@
           "OfferIds": [],
           "Childrens": [
             {
+              "Visible": true,
+              "Icon": 92,
+              "PageName": "hygge18diamond",
+              "Localization": "Cajas Regalo Diamantes",
+              "OfferIds": [
+                16289
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 195,
+              "PageName": "hygge18diamond2",
+              "Localization": "Premios Crackeables: Probabilidades",
+              "OfferIds": [],
+              "Childrens": []
+            },
+            {
               "Visible": false,
               "Icon": 196,
               "PageName": "jun21wood",
@@ -278,7 +296,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 42,
               "PageName": "jun21muay",
               "Localization": "RARO Traje Muay Thai",
@@ -309,6 +327,26 @@
             {
               "Visible": true,
               "Icon": 268,
+              "PageName": "jun21bb2",
+              "Localization": "Lote Mercado Flotante",
+              "OfferIds": [
+                18887
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "jun21bb",
+              "Localization": "Lote Mercado Flotante",
+              "OfferIds": [
+                18888
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": false,
+              "Icon": 268,
               "PageName": "jun21ba2",
               "Localization": "Lote Templo Thai",
               "OfferIds": [
@@ -317,7 +355,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "jun21ba",
               "Localization": "Lote Templo Thai",
