@@ -1,5 +1,5 @@
 {
-  "Date": "2021-06-09 11-14-50",
+  "Date": "2021-06-10 12-59-43",
   "Type": "NORMAL",
   "Count": 2463,
   "Items": [
@@ -10,18 +10,6 @@
     {
       "PageName": "jun21bb2",
       "OfferId": 18887
-    },
-    {
-      "PageName": "jun21muay",
-      "OfferId": 18883
-    },
-    {
-      "PageName": "jun21ba",
-      "OfferId": 18880
-    },
-    {
-      "PageName": "jun21ba2",
-      "OfferId": 18879
     },
     {
       "PageName": "may21baby1",
@@ -54,6 +42,10 @@
     {
       "PageName": "jun21new",
       "OfferId": 18838
+    },
+    {
+      "PageName": "clothing_new",
+      "OfferId": 18837
     },
     {
       "PageName": "jun21new",
@@ -92,10 +84,6 @@
       "OfferId": 18821
     },
     {
-      "PageName": "jun21outfit",
-      "OfferId": 18820
-    },
-    {
       "PageName": "jun21new",
       "OfferId": 18819
     },
@@ -126,6 +114,10 @@
     {
       "PageName": "jun21new",
       "OfferId": 18805
+    },
+    {
+      "PageName": "clothing_new",
+      "OfferId": 18804
     },
     {
       "PageName": "jun21new",
@@ -938,6 +930,14 @@
     {
       "PageName": "coral18furni",
       "OfferId": 15839
+    },
+    {
+      "PageName": "apr18fantasy",
+      "OfferId": 15813
+    },
+    {
+      "PageName": "apr18fantasy2",
+      "OfferId": 15805
     },
     {
       "PageName": "clothing_hats",

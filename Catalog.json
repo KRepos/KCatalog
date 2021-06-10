@@ -56,7 +56,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 92,
               "PageName": "hygge18diamond",
               "Localization": "Cajas Regalo Diamantes",
@@ -66,7 +66,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 195,
               "PageName": "hygge18diamond2",
               "Localization": "Premios Crackeables: Probabilidades",
@@ -290,35 +290,6 @@
         },
         {
           "Visible": true,
-          "Icon": 42,
-          "PageName": "2020_rares",
-          "Localization": "Raros",
-          "OfferIds": [],
-          "Childrens": [
-            {
-              "Visible": false,
-              "Icon": 42,
-              "PageName": "jun21muay",
-              "Localization": "RARO Traje Muay Thai",
-              "OfferIds": [
-                18883
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 42,
-              "PageName": "jun21outfit",
-              "Localization": "Traditional Outfit Chest!",
-              "OfferIds": [
-                18820
-              ],
-              "Childrens": []
-            }
-          ]
-        },
-        {
-          "Visible": true,
           "Icon": 268,
           "PageName": "2020_roombundles",
           "Localization": "Lotes",
@@ -347,20 +318,20 @@
             {
               "Visible": false,
               "Icon": 268,
-              "PageName": "jun21ba2",
-              "Localization": "Lote Templo Thai",
+              "PageName": "apr18fantasy2",
+              "Localization": "Lote Jungla Jurásica",
               "OfferIds": [
-                18879
+                15805
               ],
               "Childrens": []
             },
             {
               "Visible": false,
               "Icon": 268,
-              "PageName": "jun21ba",
-              "Localization": "Lote Templo Thai",
+              "PageName": "apr18fantasy",
+              "Localization": "Lote Jungla Jurásica",
               "OfferIds": [
-                18880
+                15813
               ],
               "Childrens": []
             },
@@ -2882,6 +2853,7 @@
           "PageName": "clothing_new",
           "Localization": "Novedades",
           "OfferIds": [
+            18837,
             18648,
             18662,
             18676,
@@ -2889,6 +2861,7 @@
             18674,
             18660,
             18693,
+            18804,
             18759,
             18682,
             18688,
@@ -3026,6 +2999,7 @@
             17669,
             17631,
             18130,
+            18804,
             18663,
             16599,
             16578,
@@ -3067,6 +3041,7 @@
             16946,
             17607,
             17724,
+            18837,
             17197,
             17149,
             16251,
