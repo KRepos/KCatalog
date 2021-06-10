@@ -74,7 +74,7 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 196,
               "PageName": "jun21wood",
               "Localization": "¡Set Ebanista!",
@@ -316,7 +316,7 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
               "PageName": "apr18fantasy2",
               "Localization": "Lote Jungla Jurásica",
@@ -326,7 +326,7 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
               "PageName": "apr18fantasy",
               "Localization": "Lote Jungla Jurásica",
