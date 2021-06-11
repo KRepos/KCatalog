@@ -1,7 +1,7 @@
 {
-  "Date": "2021-06-11 12-59-00",
+  "Date": "2021-06-11 13-03-32",
   "Type": "NORMAL",
-  "Count": 147,
+  "Count": 150,
   "Items": [
     {
       "PageName": "root",
@@ -46,6 +46,18 @@
     {
       "PageName": "set_pool",
       "OfferId": 13997
+    },
+    {
+      "PageName": "2020_rares",
+      "OfferId": -1
+    },
+    {
+      "PageName": "jun21pangolin",
+      "OfferId": 18896
+    },
+    {
+      "PageName": "jun21outfit",
+      "OfferId": 18820
     },
     {
       "PageName": "2020_roombundles",
