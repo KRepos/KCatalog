@@ -1,7 +1,7 @@
 {
-  "Date": "2021-06-11 09-59-14",
+  "Date": "2021-06-11 11-15-38",
   "Type": "NORMAL",
-  "Count": 2462,
+  "Count": 2463,
   "Items": [
     {
       "PageName": "jun21bb",
@@ -762,6 +762,10 @@
     {
       "PageName": "clothing_hats",
       "OfferId": 16334
+    },
+    {
+      "PageName": "hygge18diamond",
+      "OfferId": 16289
     },
     {
       "PageName": "clothing_hairstyles",
