@@ -319,7 +319,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 42,
               "PageName": "jun21pangolin",
               "Localization": "RARO Pangolín en peligro de extinción",
