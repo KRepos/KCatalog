@@ -1,5 +1,5 @@
 {
-  "Date": "2021-06-11 13-03-32",
+  "Date": "2021-06-14 12-47-36",
   "Type": "NORMAL",
   "Count": 150,
   "Items": [
@@ -46,6 +46,10 @@
     {
       "PageName": "set_pool",
       "OfferId": 13997
+    },
+    {
+      "PageName": "gameset_football",
+      "OfferId": 13924
     },
     {
       "PageName": "2020_rares",
@@ -334,10 +338,6 @@
     {
       "PageName": "gameset_freeze",
       "OfferId": 13463
-    },
-    {
-      "PageName": "gameset_football",
-      "OfferId": 13924
     },
     {
       "PageName": "gameset_snowboard",
