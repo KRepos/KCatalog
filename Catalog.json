@@ -338,7 +338,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
               "PageName": "coral18house2",
               "Localization": "Lote Hogar Submarino",
@@ -348,7 +348,7 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
               "PageName": "coral18house",
               "Localization": "Lote Hogar Submarino",
