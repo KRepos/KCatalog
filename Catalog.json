@@ -321,16 +321,6 @@
             {
               "Visible": false,
               "Icon": 42,
-              "PageName": "jun21pangolin",
-              "Localization": "RARO Pangolín en peligro de extinción",
-              "OfferIds": [
-                18896
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 42,
               "PageName": "jun21outfit",
               "Localization": "Traditional Outfit Chest!",
               "OfferIds": [
@@ -347,6 +337,26 @@
           "Localization": "Lotes",
           "OfferIds": [],
           "Childrens": [
+            {
+              "Visible": false,
+              "Icon": 268,
+              "PageName": "coral18house2",
+              "Localization": "Lote Hogar Submarino",
+              "OfferIds": [
+                15942
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": false,
+              "Icon": 268,
+              "PageName": "coral18house",
+              "Localization": "Lote Hogar Submarino",
+              "OfferIds": [
+                15943
+              ],
+              "Childrens": []
+            },
             {
               "Visible": false,
               "Icon": 268,
