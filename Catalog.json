@@ -329,7 +329,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 42,
               "PageName": "jun21outfit",
               "Localization": "Traditional Outfit Chest!",
@@ -348,7 +348,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "jun21bb2",
               "Localization": "Lote Mercado Flotante",
@@ -358,7 +358,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "jun21bb",
               "Localization": "Lote Mercado Flotante",
