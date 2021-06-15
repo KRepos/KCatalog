@@ -1,7 +1,7 @@
 {
-  "Date": "2021-06-15 13-00-00",
+  "Date": "2021-06-15 15-42-46",
   "Type": "NORMAL",
-  "Count": 2465,
+  "Count": 2467,
   "Items": [
     {
       "PageName": "jun21bb",
@@ -1866,6 +1866,10 @@
     {
       "PageName": "set_pixelnew",
       "OfferId": 13553
+    },
+    {
+      "PageName": "hot_furni",
+      "OfferId": 13552
     },
     {
       "PageName": "set_pixelnew",
@@ -5134,6 +5138,10 @@
     {
       "PageName": "set_trophies",
       "OfferId": 7122
+    },
+    {
+      "PageName": "hot_furni",
+      "OfferId": 6927
     },
     {
       "PageName": "gameset_football",

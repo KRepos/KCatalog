@@ -308,6 +308,17 @@
                 9408
               ],
               "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 196,
+              "PageName": "hot_furni",
+              "Localization": "Furnis del momento",
+              "OfferIds": [
+                13552,
+                6927
+              ],
+              "Childrens": []
             }
           ]
         },
