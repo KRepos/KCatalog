@@ -350,7 +350,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
               "PageName": "jun21gallerya",
               "Localization": "Galería Habbo Hotel  VIII",
