@@ -26,6 +26,7 @@
           "PageName": "credit_exchange",
           "Localization": "Furni créditos",
           "OfferIds": [
+            18513,
             14169,
             14342,
             1274,
@@ -349,6 +350,16 @@
           "OfferIds": [],
           "Childrens": [
             {
+              "Visible": false,
+              "Icon": 268,
+              "PageName": "jun21gallerya",
+              "Localization": "Galería Habbo Hotel  VIII",
+              "OfferIds": [
+                18898
+              ],
+              "Childrens": []
+            },
+            {
               "Visible": true,
               "Icon": 268,
               "PageName": "coral18house2",
@@ -365,26 +376,6 @@
               "Localization": "Lote Hogar Submarino",
               "OfferIds": [
                 15943
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "jun21bb2",
-              "Localization": "Lote Mercado Flotante",
-              "OfferIds": [
-                18887
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "jun21bb",
-              "Localization": "Lote Mercado Flotante",
-              "OfferIds": [
-                18888
               ],
               "Childrens": []
             },
