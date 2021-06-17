@@ -1,7 +1,7 @@
 {
-  "Date": "2021-06-17 13-00-00",
+  "Date": "2021-06-17 13-00-54",
   "Type": "NORMAL",
-  "Count": 2467,
+  "Count": 2469,
   "Items": [
     {
       "PageName": "jun21gallerya",
@@ -426,6 +426,14 @@
     {
       "PageName": "clothing_accessories",
       "OfferId": 17607
+    },
+    {
+      "PageName": "easter20bundleb",
+      "OfferId": 17574
+    },
+    {
+      "PageName": "easter20bundleb2",
+      "OfferId": 17571
     },
     {
       "PageName": "temp_effects",

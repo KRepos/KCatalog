@@ -352,6 +352,26 @@
             {
               "Visible": true,
               "Icon": 268,
+              "PageName": "easter20bundleb2",
+              "Localization": "Lote Día de pesca",
+              "OfferIds": [
+                17571
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "easter20bundleb",
+              "Localization": "Lote Día de pesca",
+              "OfferIds": [
+                17574
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
               "PageName": "jun21gallerya",
               "Localization": "Galería Habbo Hotel  VIII",
               "OfferIds": [

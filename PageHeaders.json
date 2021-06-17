@@ -1,7 +1,7 @@
 {
-  "Date": "2021-06-17 13-00-00",
+  "Date": "2021-06-17 13-00-54",
   "Type": "NORMAL",
-  "Count": 151,
+  "Count": 153,
   "Items": [
     {
       "PageName": "root",
@@ -11,7 +11,7 @@
     {
       "PageName": "front_page",
       "OfferId": -1,
-      "PageId": 958140
+      "PageId": 958688
     },
     {
       "PageName": "furni",
@@ -21,7 +21,7 @@
     {
       "PageName": "credit_exchange",
       "OfferId": 18513,
-      "PageId": 958177
+      "PageId": 958725
     },
     {
       "PageName": "2020_hotnow",
@@ -31,42 +31,42 @@
     {
       "PageName": "jun21wood",
       "OfferId": 18825,
-      "PageId": 958181
+      "PageId": 958729
     },
     {
       "PageName": "jun21new",
       "OfferId": 18819,
-      "PageId": 958182
+      "PageId": 958730
     },
     {
       "PageName": "bc_lostcity",
       "OfferId": 13906,
-      "PageId": 958183
+      "PageId": 958731
     },
     {
       "PageName": "bc_coco",
       "OfferId": 13933,
-      "PageId": 958184
+      "PageId": 958732
     },
     {
       "PageName": "coral18furni",
       "OfferId": 15885,
-      "PageId": 958185
+      "PageId": 958733
     },
     {
       "PageName": "set_pool",
       "OfferId": 13997,
-      "PageId": 958186
+      "PageId": 958734
     },
     {
       "PageName": "gameset_football",
       "OfferId": 13924,
-      "PageId": 958187
+      "PageId": 958735
     },
     {
       "PageName": "hot_furni",
       "OfferId": 13552,
-      "PageId": 958188
+      "PageId": 958736
     },
     {
       "PageName": "2020_rares",
@@ -76,7 +76,7 @@
     {
       "PageName": "jun21outfit",
       "OfferId": 18820,
-      "PageId": 958190
+      "PageId": 958738
     },
     {
       "PageName": "2020_roombundles",
@@ -84,59 +84,69 @@
       "PageId": -1
     },
     {
+      "PageName": "easter20bundleb2",
+      "OfferId": 17571,
+      "PageId": 958740
+    },
+    {
+      "PageName": "easter20bundleb",
+      "OfferId": 17574,
+      "PageId": 958741
+    },
+    {
       "PageName": "jun21gallerya",
       "OfferId": 18898,
-      "PageId": 958192
+      "PageId": 958742
     },
     {
       "PageName": "coral18house2",
       "OfferId": 15942,
-      "PageId": 958193
+      "PageId": 958743
     },
     {
       "PageName": "coral18house",
       "OfferId": 15943,
-      "PageId": 958194
+      "PageId": 958744
     },
     {
       "PageName": "apr18fantasy2",
       "OfferId": 15805,
-      "PageId": 958195
+      "PageId": 958745
     },
     {
       "PageName": "apr18fantasy",
       "OfferId": 15813,
-      "PageId": 958196
+      "PageId": 958746
     },
     {
       "PageName": "may21baby1",
       "OfferId": 18861,
-      "PageId": 958197
+      "PageId": 958747
     },
     {
       "PageName": "may21baby3",
       "OfferId": 18855,
-      "PageId": 958198
+      "PageId": 958748
     },
     {
       "PageName": "may21baby4",
       "OfferId": 18857,
-      "PageId": 958199
+      "PageId": 958749
     },
     {
       "PageName": "may21baby5",
       "OfferId": 18853,
-      "PageId": 958200
+      "PageId": 958750
     },
     {
       "PageName": "may21baby2",
       "OfferId": 18859,
-      "PageId": 958201
+      "PageId": 958751
     },
     {
       "PageName": "room_ad",
       "OfferId": 7290,
-      "PageId": 958203
+      "PageId": 958753
     },
     {
       "PageName": "2020_bytype",
@@ -146,147 +156,147 @@
     {
       "PageName": "bots",
       "OfferId": 7299,
-      "PageId": 958205
+      "PageId": 958755
     },
     {
       "PageName": "wired_triggers",
       "OfferId": 4981,
-      "PageId": 958206
+      "PageId": 958756
     },
     {
       "PageName": "wired_effects",
       "OfferId": 4963,
-      "PageId": 958207
+      "PageId": 958757
     },
     {
       "PageName": "wired_conditions",
       "OfferId": 6330,
-      "PageId": 958208
+      "PageId": 958758
     },
     {
       "PageName": "wired_addons",
       "OfferId": 13459,
-      "PageId": 958209
+      "PageId": 958759
     },
     {
       "PageName": "wired_leaderboard",
       "OfferId": 8050,
-      "PageId": 958210
+      "PageId": 958760
     },
     {
       "PageName": "sound_fx",
       "OfferId": 7364,
-      "PageId": 958211
+      "PageId": 958761
     },
     {
       "PageName": "trax_jukebox",
       "OfferId": 13448,
-      "PageId": 958212
+      "PageId": 958762
     },
     {
       "PageName": "trax_songs",
       "OfferId": 14345,
-      "PageId": 958213
+      "PageId": 958763
     },
     {
       "PageName": "set_extras",
       "OfferId": 13499,
-      "PageId": 958214
+      "PageId": 958764
     },
     {
       "PageName": "badge_display",
       "OfferId": 7944,
-      "PageId": 958215
+      "PageId": 958765
     },
     {
       "PageName": "dynamic_product_category_bed",
       "OfferId": -1,
-      "PageId": 958216
+      "PageId": 958766
     },
     {
       "PageName": "set_rugs",
       "OfferId": 13464,
-      "PageId": 958217
+      "PageId": 958767
     },
     {
       "PageName": "dynamic_product_category_chair",
       "OfferId": -1,
-      "PageId": 958218
+      "PageId": 958768
     },
     {
       "PageName": "set_dimmer",
       "OfferId": 13347,
-      "PageId": 958219
+      "PageId": 958769
     },
     {
       "PageName": "dynamic_product_category_vending_machine",
       "OfferId": -1,
-      "PageId": 958220
+      "PageId": 958770
     },
     {
       "PageName": "dynamic_product_category_divider",
       "OfferId": -1,
-      "PageId": 958221
+      "PageId": 958771
     },
     {
       "PageName": "dynamic_product_category_floor",
       "OfferId": -1,
-      "PageId": 958222
+      "PageId": 958772
     },
     {
       "PageName": "space_floor",
       "OfferId": 5626,
-      "PageId": 958223
+      "PageId": 958773
     },
     {
       "PageName": "space_landscape",
       "OfferId": 7789,
-      "PageId": 958225
+      "PageId": 958775
     },
     {
       "PageName": "dynamic_product_category_lighting",
       "OfferId": -1,
-      "PageId": 958226
+      "PageId": 958776
     },
     {
       "PageName": "set_rollers",
       "OfferId": 13425,
-      "PageId": 958227
+      "PageId": 958777
     },
     {
       "PageName": "dynamic_product_category_table",
       "OfferId": -1,
-      "PageId": 958228
+      "PageId": 958778
     },
     {
       "PageName": "set_teleports2",
       "OfferId": 13420,
-      "PageId": 958229
+      "PageId": 958779
     },
     {
       "PageName": "palooza_tents",
       "OfferId": 13367,
-      "PageId": 958230
+      "PageId": 958780
     },
     {
       "PageName": "set_trophies",
       "OfferId": 433,
-      "PageId": 958232
+      "PageId": 958782
     },
     {
       "PageName": "set_posters",
       "OfferId": 13621,
-      "PageId": 958233
+      "PageId": 958783
     },
     {
       "PageName": "space_wallpaper",
       "OfferId": 5466,
-      "PageId": 958234
+      "PageId": 958784
     },
     {
       "PageName": "set_windows",
       "OfferId": 13391,
-      "PageId": 958235
+      "PageId": 958785
     },
     {
       "PageName": "2020_bydesign",
@@ -296,82 +306,82 @@
     {
       "PageName": "set_anna",
       "OfferId": 13596,
-      "PageId": 958243
+      "PageId": 958793
     },
     {
       "PageName": "set_pixelnew",
       "OfferId": 13577,
-      "PageId": 958249
+      "PageId": 958799
     },
     {
       "PageName": "set_bath",
       "OfferId": 13517,
-      "PageId": 958252
+      "PageId": 958802
     },
     {
       "PageName": "set_picnic",
       "OfferId": 13547,
-      "PageId": 958258
+      "PageId": 958808
     },
     {
       "PageName": "set_cubie",
       "OfferId": 13521,
-      "PageId": 958259
+      "PageId": 958809
     },
     {
       "PageName": "bc_gardening",
       "OfferId": 8395,
-      "PageId": 958264
+      "PageId": 958814
     },
     {
       "PageName": "bc_university",
       "OfferId": 13645,
-      "PageId": 958270
+      "PageId": 958820
     },
     {
       "PageName": "healthspa",
       "OfferId": 13621,
-      "PageId": 958272
+      "PageId": 958822
     },
     {
       "PageName": "set_iced",
       "OfferId": 13610,
-      "PageId": 958273
+      "PageId": 958823
     },
     {
       "PageName": "ktchn15",
       "OfferId": 13699,
-      "PageId": 958278
+      "PageId": 958828
     },
     {
       "PageName": "set_lodge",
       "OfferId": 3214,
-      "PageId": 958279
+      "PageId": 958829
     },
     {
       "PageName": "set_mode",
       "OfferId": 13705,
-      "PageId": 958283
+      "PageId": 958833
     },
     {
       "PageName": "set_neon",
       "OfferId": 13725,
-      "PageId": 958286
+      "PageId": 958836
     },
     {
       "PageName": "set_pura",
       "OfferId": 13729,
-      "PageId": 958294
+      "PageId": 958844
     },
     {
       "PageName": "hb20rain",
       "OfferId": 17707,
-      "PageId": 958295
+      "PageId": 958845
     },
     {
       "PageName": "set_usva",
       "OfferId": 8701,
-      "PageId": 958313
+      "PageId": 958863
     },
     {
       "PageName": "2020_byenvironment",
@@ -381,72 +391,72 @@
     {
       "PageName": "guild_frontpage",
       "OfferId": -1,
-      "PageId": 958321
+      "PageId": 958871
     },
     {
       "PageName": "guild_custom_furni",
       "OfferId": 13380,
-      "PageId": 958322
+      "PageId": 958872
     },
     {
       "PageName": "guild_forum",
       "OfferId": 9300,
-      "PageId": 958323
+      "PageId": 958873
     },
     {
       "PageName": "dynamic_product_environment_bathroom",
       "OfferId": -1,
-      "PageId": 958324
+      "PageId": 958874
     },
     {
       "PageName": "dynamic_product_environment_countryside",
       "OfferId": -1,
-      "PageId": 958325
+      "PageId": 958875
     },
     {
       "PageName": "dynamic_product_environment_kitchen",
       "OfferId": -1,
-      "PageId": 958326
+      "PageId": 958876
     },
     {
       "PageName": "monkey_furni",
       "OfferId": 13424,
-      "PageId": 958327
+      "PageId": 958877
     },
     {
       "PageName": "dynamic_product_environment_nature",
       "OfferId": -1,
-      "PageId": 958328
+      "PageId": 958878
     },
     {
       "PageName": "gameset_battle_banzai",
       "OfferId": 13429,
-      "PageId": 958329
+      "PageId": 958879
     },
     {
       "PageName": "gameset_freeze",
       "OfferId": 13463,
-      "PageId": 958330
+      "PageId": 958880
     },
     {
       "PageName": "gameset_snowboard",
       "OfferId": 13586,
-      "PageId": 958331
+      "PageId": 958881
     },
     {
       "PageName": "gameset_ice_hockey",
       "OfferId": 13518,
-      "PageId": 958332
+      "PageId": 958882
     },
     {
       "PageName": "gameset_ice_tagging",
       "OfferId": 13764,
-      "PageId": 958333
+      "PageId": 958883
     },
     {
       "PageName": "gameset_roller_skates",
       "OfferId": 5186,
-      "PageId": 958334
+      "PageId": 958884
     },
     {
       "PageName": "2020_hcexclusives",
@@ -456,27 +466,27 @@
     {
       "PageName": "club_shop",
       "OfferId": 13376,
-      "PageId": 958336
+      "PageId": 958886
     },
     {
       "PageName": "set_blackhole",
       "OfferId": 13449,
-      "PageId": 958337
+      "PageId": 958887
     },
     {
       "PageName": "marketplace_info",
       "OfferId": -1,
-      "PageId": 958338
+      "PageId": 958888
     },
     {
       "PageName": "martketplace_my_sales",
       "OfferId": -1,
-      "PageId": 958339
+      "PageId": 958889
     },
     {
       "PageName": "marketplace_offers",
       "OfferId": -1,
-      "PageId": 958340
+      "PageId": 958890
     },
     {
       "PageName": "clothing",
@@ -486,67 +496,67 @@
     {
       "PageName": "clothing_new",
       "OfferId": 18837,
-      "PageId": 958342
+      "PageId": 958892
     },
     {
       "PageName": "clothing_outfits",
       "OfferId": 13382,
-      "PageId": 958343
+      "PageId": 958893
     },
     {
       "PageName": "clothing_hairstyles",
       "OfferId": 13446,
-      "PageId": 958344
+      "PageId": 958894
     },
     {
       "PageName": "clothing_hats",
       "OfferId": 13439,
-      "PageId": 958345
+      "PageId": 958895
     },
     {
       "PageName": "clothing_accessories",
       "OfferId": 13451,
-      "PageId": 958346
+      "PageId": 958896
     },
     {
       "PageName": "clothing_dresses",
       "OfferId": 14336,
-      "PageId": 958347
+      "PageId": 958897
     },
     {
       "PageName": "clothing_shirts",
       "OfferId": 14341,
-      "PageId": 958348
+      "PageId": 958898
     },
     {
       "PageName": "clothing_jackets",
       "OfferId": 13435,
-      "PageId": 958349
+      "PageId": 958899
     },
     {
       "PageName": "clothing_trousers",
       "OfferId": 13417,
-      "PageId": 958350
+      "PageId": 958900
     },
     {
       "PageName": "clothing_skirts",
       "OfferId": 13416,
-      "PageId": 958351
+      "PageId": 958901
     },
     {
       "PageName": "clothing_shoes",
       "OfferId": 14333,
-      "PageId": 958352
+      "PageId": 958902
     },
     {
       "PageName": "ny2015_permeffects",
       "OfferId": 14348,
-      "PageId": 958353
+      "PageId": 958903
     },
     {
       "PageName": "temp_effects",
       "OfferId": 18051,
-      "PageId": 958354
+      "PageId": 958904
     },
     {
       "PageName": "pets_new",
@@ -556,132 +566,132 @@
     {
       "PageName": "pets_info",
       "OfferId": -1,
-      "PageId": 958356
+      "PageId": 958906
     },
     {
       "PageName": "golden_cow",
       "OfferId": 14976,
-      "PageId": 958357
+      "PageId": 958907
     },
     {
       "PageName": "pet_cow",
       "OfferId": 14909,
-      "PageId": 958358
+      "PageId": 958908
     },
     {
       "PageName": "pet_gnome",
       "OfferId": 8788,
-      "PageId": 958359
+      "PageId": 958909
     },
     {
       "PageName": "pet_chick",
       "OfferId": 5430,
-      "PageId": 958360
+      "PageId": 958910
     },
     {
       "PageName": "candyland15_obbah",
       "OfferId": 11783,
-      "PageId": 958361
+      "PageId": 958911
     },
     {
       "PageName": "pet_horse",
       "OfferId": 6122,
-      "PageId": 958362
+      "PageId": 958912
     },
     {
       "PageName": "pet_monkey",
       "OfferId": 5978,
-      "PageId": 958363
+      "PageId": 958913
     },
     {
       "PageName": "pet_raptor",
       "OfferId": 12042,
-      "PageId": 958364
+      "PageId": 958914
     },
     {
       "PageName": "pet_pterosaur",
       "OfferId": 12043,
-      "PageId": 958365
+      "PageId": 958915
     },
     {
       "PageName": "pet_polar_bear",
       "OfferId": 4213,
-      "PageId": 958366
+      "PageId": 958916
     },
     {
       "PageName": "pet_dragon",
       "OfferId": 5848,
-      "PageId": 958367
+      "PageId": 958917
     },
     {
       "PageName": "pet_terrier",
       "OfferId": 4212,
-      "PageId": 958368
+      "PageId": 958918
     },
     {
       "PageName": "pet_lion",
       "OfferId": 4760,
-      "PageId": 958369
+      "PageId": 958919
     },
     {
       "PageName": "pet_turtle",
       "OfferId": 5934,
-      "PageId": 958370
+      "PageId": 958920
     },
     {
       "PageName": "pet_crocodile",
       "OfferId": 1316,
-      "PageId": 958371
+      "PageId": 958921
     },
     {
       "PageName": "pet_rhino",
       "OfferId": 4761,
-      "PageId": 958372
+      "PageId": 958922
     },
     {
       "PageName": "pet_spider",
       "OfferId": 5251,
-      "PageId": 958373
+      "PageId": 958923
     },
     {
       "PageName": "pet_dog",
       "OfferId": 456,
-      "PageId": 958374
+      "PageId": 958924
     },
     {
       "PageName": "pet_cat",
       "OfferId": 457,
-      "PageId": 958375
+      "PageId": 958925
     },
     {
       "PageName": "pet_boar",
       "OfferId": 4214,
-      "PageId": 958376
+      "PageId": 958926
     },
     {
       "PageName": "pet_frog",
       "OfferId": 5266,
-      "PageId": 958377
+      "PageId": 958927
     },
     {
       "PageName": "babypets_info",
       "OfferId": -1,
-      "PageId": 958379
+      "PageId": 958929
     },
     {
       "PageName": "pet_puppy",
       "OfferId": 10032,
-      "PageId": 958380
+      "PageId": 958930
     },
     {
       "PageName": "pet_kitten",
       "OfferId": 10031,
-      "PageId": 958381
+      "PageId": 958931
     },
     {
       "PageName": "pet_piglet",
       "OfferId": 10033,
-      "PageId": 958382
+      "PageId": 958932
     },
     {
       "PageName": "pets_pet_equipment",
@@ -691,42 +701,42 @@
     {
       "PageName": "baby_pet_accessories",
       "OfferId": 7794,
-      "PageId": 958385
+      "PageId": 958935
     },
     {
       "PageName": "horse_saddle",
       "OfferId": 6232,
-      "PageId": 958386
+      "PageId": 958936
     },
     {
       "PageName": "horse_dyes",
       "OfferId": 13469,
-      "PageId": 958387
+      "PageId": 958937
     },
     {
       "PageName": "horse_styles",
       "OfferId": 13381,
-      "PageId": 958388
+      "PageId": 958938
     },
     {
       "PageName": "horse_jump_pilot",
       "OfferId": 13369,
-      "PageId": 958389
+      "PageId": 958939
     },
     {
       "PageName": "monster_plants_info",
       "OfferId": -1,
-      "PageId": 958390
+      "PageId": 958940
     },
     {
       "PageName": "monster_plant_seeds",
       "OfferId": 8422,
-      "PageId": 958391
+      "PageId": 958941
     },
     {
       "PageName": "monster_plant_potions",
       "OfferId": 8433,
-      "PageId": 958392
+      "PageId": 958942
     },
     {
       "PageName": "habbo_club_desktop",
@@ -736,27 +746,27 @@
     {
       "PageName": "hc_membership",
       "OfferId": -1,
-      "PageId": 958394
+      "PageId": 958944
     },
     {
       "PageName": "builders_club_frontpage",
       "OfferId": 8807,
-      "PageId": 958395
+      "PageId": 958945
     },
     {
       "PageName": "loyalty_bc",
       "OfferId": 9433,
-      "PageId": 958396
+      "PageId": 958946
     },
     {
       "PageName": "builders_upgrades",
       "OfferId": 8758,
-      "PageId": 958397
+      "PageId": 958947
     },
     {
       "PageName": "bchc_boxes",
       "OfferId": 15640,
-      "PageId": 958398
+      "PageId": 958948
     }
   ]
 }
