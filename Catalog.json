@@ -359,7 +359,7 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 42,
               "PageName": "jun21elephant",
               "Localization": "RARO Aranya El Elefante",
