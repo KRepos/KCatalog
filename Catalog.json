@@ -57,6 +57,24 @@
           "OfferIds": [],
           "Childrens": [
             {
+              "Visible": false,
+              "Icon": 92,
+              "PageName": "hygge18diamond",
+              "Localization": "Cajas Regalo Diamantes",
+              "OfferIds": [
+                16289
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": false,
+              "Icon": 195,
+              "PageName": "hygge18diamond2",
+              "Localization": "Premios Crackeables: Probabilidades",
+              "OfferIds": [],
+              "Childrens": []
+            },
+            {
               "Visible": true,
               "Icon": 196,
               "PageName": "jun21wood",
@@ -337,6 +355,16 @@
               "Localization": "Traditional Outfit Chest!",
               "OfferIds": [
                 18820
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": false,
+              "Icon": 42,
+              "PageName": "jun21elephant",
+              "Localization": "RARO Aranya El Elefante",
+              "OfferIds": [
+                18918
               ],
               "Childrens": []
             }

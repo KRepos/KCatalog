@@ -1,7 +1,7 @@
 {
-  "Date": "2021-06-17 13-00-54",
+  "Date": "2021-06-18 10-19-35",
   "Type": "NORMAL",
-  "Count": 153,
+  "Count": 156,
   "Items": [
     {
       "PageName": "root",
@@ -21,6 +21,14 @@
     },
     {
       "PageName": "2020_hotnow",
+      "OfferId": -1
+    },
+    {
+      "PageName": "hygge18diamond",
+      "OfferId": 16289
+    },
+    {
+      "PageName": "hygge18diamond2",
       "OfferId": -1
     },
     {
@@ -62,6 +70,10 @@
     {
       "PageName": "jun21outfit",
       "OfferId": 18820
+    },
+    {
+      "PageName": "jun21elephant",
+      "OfferId": 18918
     },
     {
       "PageName": "2020_roombundles",

@@ -1,8 +1,12 @@
 {
-  "Date": "2021-06-17 13-00-54",
+  "Date": "2021-06-18 10-19-35",
   "Type": "NORMAL",
-  "Count": 2469,
+  "Count": 2471,
   "Items": [
+    {
+      "PageName": "jun21elephant",
+      "OfferId": 18918
+    },
     {
       "PageName": "jun21gallerya",
       "OfferId": 18898
@@ -774,6 +778,10 @@
     {
       "PageName": "clothing_hats",
       "OfferId": 16334
+    },
+    {
+      "PageName": "hygge18diamond",
+      "OfferId": 16289
     },
     {
       "PageName": "clothing_hairstyles",
