@@ -1,7 +1,7 @@
 {
-  "Date": "2021-06-21 13-00-00",
+  "Date": "2021-06-21 13-00-06",
   "Type": "NORMAL",
-  "Count": 154,
+  "Count": 153,
   "Items": [
     {
       "PageName": "root",
@@ -62,10 +62,6 @@
     {
       "PageName": "jun21outfit",
       "OfferId": 18820
-    },
-    {
-      "PageName": "jun21elephant",
-      "OfferId": 18918
     },
     {
       "PageName": "2020_roombundles",
