@@ -331,7 +331,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 42,
               "PageName": "jun21outfit",
               "Localization": "Traditional Outfit Chest!",
@@ -400,7 +400,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "coral18house2",
               "Localization": "Lote Hogar Submarino",
@@ -410,7 +410,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "coral18house",
               "Localization": "Lote Hogar Submarino",
