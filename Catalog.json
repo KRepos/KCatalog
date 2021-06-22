@@ -350,7 +350,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
               "PageName": "stranded16lagoon2",
               "Localization": "Lote Laguna Tropical",
@@ -360,7 +360,7 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
               "PageName": "stranded16lagoon",
               "Localization": "Lote Laguna Tropical",
