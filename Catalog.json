@@ -350,6 +350,26 @@
           "OfferIds": [],
           "Childrens": [
             {
+              "Visible": false,
+              "Icon": 268,
+              "PageName": "stranded16lagoon2",
+              "Localization": "Lote Laguna Tropical",
+              "OfferIds": [
+                13606
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": false,
+              "Icon": 268,
+              "PageName": "stranded16lagoon",
+              "Localization": "Lote Laguna Tropical",
+              "OfferIds": [
+                13605
+              ],
+              "Childrens": []
+            },
+            {
               "Visible": true,
               "Icon": 268,
               "PageName": "easter20bundleb2",
