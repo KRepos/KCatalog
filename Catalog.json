@@ -58,6 +58,24 @@
           "Childrens": [
             {
               "Visible": false,
+              "Icon": 92,
+              "PageName": "hygge18diamond",
+              "Localization": "Cajas Regalo Diamantes",
+              "OfferIds": [
+                16289
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": false,
+              "Icon": 195,
+              "PageName": "hygge18diamond2",
+              "Localization": "Premios Crackeables: Probabilidades",
+              "OfferIds": [],
+              "Childrens": []
+            },
+            {
+              "Visible": false,
               "Icon": 196,
               "PageName": "jun21wood",
               "Localization": "¡Set Ebanista!",
@@ -331,12 +349,42 @@
           "OfferIds": [],
           "Childrens": [
             {
+              "Visible": true,
+              "Icon": 145,
+              "PageName": "ler",
+              "Localization": "Raros de edición limitada",
+              "OfferIds": [
+                18928
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 42,
+              "PageName": "jun21tree",
+              "Localization": "RARO Árbol de la Laguna Sagrada",
+              "OfferIds": [
+                18985
+              ],
+              "Childrens": []
+            },
+            {
               "Visible": false,
               "Icon": 42,
               "PageName": "jun21outfit",
               "Localization": "Traditional Outfit Chest!",
               "OfferIds": [
                 18820
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": false,
+              "Icon": 42,
+              "PageName": "rare3",
+              "Localization": "Raros",
+              "OfferIds": [
+                19009
               ],
               "Childrens": []
             }
@@ -349,6 +397,26 @@
           "Localization": "Lotes",
           "OfferIds": [],
           "Childrens": [
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "may20spa2",
+              "Localization": "Lote Spa Serenidad y Salud",
+              "OfferIds": [
+                17683
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "may20spa",
+              "Localization": "Lote Spa Serenidad y Salud",
+              "OfferIds": [
+                17682
+              ],
+              "Childrens": []
+            },
             {
               "Visible": true,
               "Icon": 268,
@@ -370,7 +438,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "easter20bundleb2",
               "Localization": "Lote Día de pesca",
@@ -380,62 +448,12 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "easter20bundleb",
               "Localization": "Lote Día de pesca",
               "OfferIds": [
                 17574
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": true,
-              "Icon": 268,
-              "PageName": "jun21gallerya",
-              "Localization": "Galería Habbo Hotel  VIII",
-              "OfferIds": [
-                18898
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "coral18house2",
-              "Localization": "Lote Hogar Submarino",
-              "OfferIds": [
-                15942
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "coral18house",
-              "Localization": "Lote Hogar Submarino",
-              "OfferIds": [
-                15943
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "apr18fantasy2",
-              "Localization": "Lote Jungla Jurásica",
-              "OfferIds": [
-                15805
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "apr18fantasy",
-              "Localization": "Lote Jungla Jurásica",
-              "OfferIds": [
-                15813
               ],
               "Childrens": []
             },
