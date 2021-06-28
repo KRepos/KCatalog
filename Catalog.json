@@ -75,16 +75,6 @@
               "Childrens": []
             },
             {
-              "Visible": false,
-              "Icon": 196,
-              "PageName": "jun21wood",
-              "Localization": "¡Set Ebanista!",
-              "OfferIds": [
-                18825
-              ],
-              "Childrens": []
-            },
-            {
               "Visible": true,
               "Icon": 298,
               "PageName": "jun21new",
@@ -348,26 +338,6 @@
           "Localization": "Raros",
           "OfferIds": [],
           "Childrens": [
-            {
-              "Visible": true,
-              "Icon": 145,
-              "PageName": "ler",
-              "Localization": "Raros de edición limitada",
-              "OfferIds": [
-                18928
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 42,
-              "PageName": "jun21tree",
-              "Localization": "RARO Árbol de la Laguna Sagrada",
-              "OfferIds": [
-                18985
-              ],
-              "Childrens": []
-            },
             {
               "Visible": false,
               "Icon": 42,

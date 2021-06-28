@@ -1,7 +1,7 @@
 {
-  "Date": "2021-06-28 10-59-00",
+  "Date": "2021-06-28 10-59-17",
   "Type": "NORMAL",
-  "Count": 157,
+  "Count": 154,
   "Items": [
     {
       "PageName": "root",
@@ -30,10 +30,6 @@
     {
       "PageName": "hygge18diamond2",
       "OfferId": -1
-    },
-    {
-      "PageName": "jun21wood",
-      "OfferId": 18825
     },
     {
       "PageName": "jun21new",
@@ -66,14 +62,6 @@
     {
       "PageName": "2020_rares",
       "OfferId": -1
-    },
-    {
-      "PageName": "ler",
-      "OfferId": 18928
-    },
-    {
-      "PageName": "jun21tree",
-      "OfferId": 18985
     },
     {
       "PageName": "jun21outfit",
