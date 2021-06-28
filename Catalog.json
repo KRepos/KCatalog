@@ -359,7 +359,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 42,
               "PageName": "jun21tree",
               "Localization": "RARO Árbol de la Laguna Sagrada",
