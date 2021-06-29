@@ -339,7 +339,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 42,
               "PageName": "jun21outfit",
               "Localization": "Traditional Outfit Chest!",
@@ -388,7 +388,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "stranded16lagoon2",
               "Localization": "Lote Laguna Tropical",
@@ -398,7 +398,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "stranded16lagoon",
               "Localization": "Lote Laguna Tropical",
