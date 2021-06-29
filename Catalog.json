@@ -57,7 +57,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 92,
               "PageName": "hygge18diamond",
               "Localization": "Cajas Regalo Diamantes",
@@ -67,7 +67,7 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 195,
               "PageName": "hygge18diamond2",
               "Localization": "Premios Crackeables: Probabilidades",
