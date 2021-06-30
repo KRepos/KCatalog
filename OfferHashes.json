@@ -1,8 +1,12 @@
 {
-  "Date": "2021-06-30 12-59-00",
+  "Date": "2021-06-30 13-01-41",
   "Type": "NORMAL",
-  "Count": 2469,
+  "Count": 2464,
   "Items": [
+    {
+      "PageName": "jun21galleryb",
+      "OfferId": 19102
+    },
     {
       "PageName": "rare3",
       "OfferId": 19009
@@ -74,10 +78,6 @@
     {
       "PageName": "jun21new",
       "OfferId": 18821
-    },
-    {
-      "PageName": "jun21outfit",
-      "OfferId": 18820
     },
     {
       "PageName": "jun21new",
@@ -432,14 +432,6 @@
       "OfferId": 17607
     },
     {
-      "PageName": "easter20bundleb",
-      "OfferId": 17574
-    },
-    {
-      "PageName": "easter20bundleb2",
-      "OfferId": 17571
-    },
-    {
       "PageName": "temp_effects",
       "OfferId": 17568
     },
@@ -778,10 +770,6 @@
     {
       "PageName": "clothing_hats",
       "OfferId": 16334
-    },
-    {
-      "PageName": "hygge18diamond",
-      "OfferId": 16289
     },
     {
       "PageName": "clothing_hairstyles",
@@ -1758,14 +1746,6 @@
     {
       "PageName": "set_iced",
       "OfferId": 13610
-    },
-    {
-      "PageName": "stranded16lagoon2",
-      "OfferId": 13606
-    },
-    {
-      "PageName": "stranded16lagoon",
-      "OfferId": 13605
     },
     {
       "PageName": "set_anna",

@@ -57,24 +57,6 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": false,
-              "Icon": 92,
-              "PageName": "hygge18diamond",
-              "Localization": "Cajas Regalo Diamantes",
-              "OfferIds": [
-                16289
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 195,
-              "PageName": "hygge18diamond2",
-              "Localization": "Premios Crackeables: Probabilidades",
-              "OfferIds": [],
-              "Childrens": []
-            },
-            {
               "Visible": true,
               "Icon": 298,
               "PageName": "jun21new",
@@ -339,16 +321,6 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": false,
-              "Icon": 42,
-              "PageName": "jun21outfit",
-              "Localization": "Traditional Outfit Chest!",
-              "OfferIds": [
-                18820
-              ],
-              "Childrens": []
-            },
-            {
               "Visible": true,
               "Icon": 42,
               "PageName": "rare3",
@@ -370,6 +342,16 @@
             {
               "Visible": true,
               "Icon": 268,
+              "PageName": "jun21galleryb",
+              "Localization": "Galería Habbo Hotel IX",
+              "OfferIds": [
+                19102
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
               "PageName": "may20spa2",
               "Localization": "Lote Spa Serenidad y Salud",
               "OfferIds": [
@@ -384,46 +366,6 @@
               "Localization": "Lote Spa Serenidad y Salud",
               "OfferIds": [
                 17682
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "stranded16lagoon2",
-              "Localization": "Lote Laguna Tropical",
-              "OfferIds": [
-                13606
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "stranded16lagoon",
-              "Localization": "Lote Laguna Tropical",
-              "OfferIds": [
-                13605
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "easter20bundleb2",
-              "Localization": "Lote Día de pesca",
-              "OfferIds": [
-                17571
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "easter20bundleb",
-              "Localization": "Lote Día de pesca",
-              "OfferIds": [
-                17574
               ],
               "Childrens": []
             },

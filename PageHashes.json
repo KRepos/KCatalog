@@ -1,7 +1,7 @@
 {
-  "Date": "2021-06-30 12-59-00",
+  "Date": "2021-06-30 13-01-41",
   "Type": "NORMAL",
-  "Count": 154,
+  "Count": 148,
   "Items": [
     {
       "PageName": "root",
@@ -21,14 +21,6 @@
     },
     {
       "PageName": "2020_hotnow",
-      "OfferId": -1
-    },
-    {
-      "PageName": "hygge18diamond",
-      "OfferId": 16289
-    },
-    {
-      "PageName": "hygge18diamond2",
       "OfferId": -1
     },
     {
@@ -64,10 +56,6 @@
       "OfferId": -1
     },
     {
-      "PageName": "jun21outfit",
-      "OfferId": 18820
-    },
-    {
       "PageName": "rare3",
       "OfferId": 19009
     },
@@ -76,28 +64,16 @@
       "OfferId": -1
     },
     {
+      "PageName": "jun21galleryb",
+      "OfferId": 19102
+    },
+    {
       "PageName": "may20spa2",
       "OfferId": 17683
     },
     {
       "PageName": "may20spa",
       "OfferId": 17682
-    },
-    {
-      "PageName": "stranded16lagoon2",
-      "OfferId": 13606
-    },
-    {
-      "PageName": "stranded16lagoon",
-      "OfferId": 13605
-    },
-    {
-      "PageName": "easter20bundleb2",
-      "OfferId": 17571
-    },
-    {
-      "PageName": "easter20bundleb",
-      "OfferId": 17574
     },
     {
       "PageName": "may21baby1",
