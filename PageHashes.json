@@ -1,7 +1,7 @@
 {
-  "Date": "2021-07-02 13-07-49",
+  "Date": "2021-07-02 13-20-51",
   "Type": "NORMAL",
-  "Count": 146,
+  "Count": 148,
   "Items": [
     {
       "PageName": "root",
@@ -46,6 +46,14 @@
     {
       "PageName": "hot_furni",
       "OfferId": 13552
+    },
+    {
+      "PageName": "2020_rares",
+      "OfferId": -1
+    },
+    {
+      "PageName": "jul21r1",
+      "OfferId": 19126
     },
     {
       "PageName": "2020_roombundles",
