@@ -1,5 +1,5 @@
 {
-  "Date": "2021-07-05 12-59-00",
+  "Date": "2021-07-05 13-03-05",
   "Type": "NORMAL",
   "Count": 148,
   "Items": [
@@ -21,6 +21,14 @@
     },
     {
       "PageName": "2020_hotnow",
+      "OfferId": -1
+    },
+    {
+      "PageName": "jul21high",
+      "OfferId": 18901
+    },
+    {
+      "PageName": "jul21high3",
       "OfferId": -1
     },
     {
@@ -46,14 +54,6 @@
     {
       "PageName": "hot_furni",
       "OfferId": 13552
-    },
-    {
-      "PageName": "2020_rares",
-      "OfferId": -1
-    },
-    {
-      "PageName": "jul21r1",
-      "OfferId": 19126
     },
     {
       "PageName": "2020_roombundles",

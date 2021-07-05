@@ -58,6 +58,24 @@
           "Childrens": [
             {
               "Visible": true,
+              "Icon": 195,
+              "PageName": "jul21high",
+              "Localization": "Bolsa de Regalos Orgullo",
+              "OfferIds": [
+                18901
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 263,
+              "PageName": "jul21high3",
+              "Localization": "Crackable: Reward probabilities",
+              "OfferIds": [],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
               "Icon": 274,
               "PageName": "jul17old",
               "Localization": "Furnis Clásicos de Verano",
@@ -288,25 +306,6 @@
               "OfferIds": [
                 13552,
                 6927
-              ],
-              "Childrens": []
-            }
-          ]
-        },
-        {
-          "Visible": true,
-          "Icon": 42,
-          "PageName": "2020_rares",
-          "Localization": "Raros",
-          "OfferIds": [],
-          "Childrens": [
-            {
-              "Visible": false,
-              "Icon": 42,
-              "PageName": "jul21r1",
-              "Localization": "RARO Cabello Libre",
-              "OfferIds": [
-                19126
               ],
               "Childrens": []
             }
