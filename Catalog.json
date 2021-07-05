@@ -301,7 +301,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 42,
               "PageName": "jul21r1",
               "Localization": "RARO Cabello Libre",
