@@ -1,7 +1,7 @@
 {
-  "Date": "2021-07-06 12-59-00",
+  "Date": "2021-07-06 13-02-01",
   "Type": "NORMAL",
-  "Count": 2504,
+  "Count": 2507,
   "Items": [
     {
       "PageName": "jul21ba",
@@ -366,6 +366,18 @@
     {
       "PageName": "clothing_accessories",
       "OfferId": 17469
+    },
+    {
+      "PageName": "jan20sweet2",
+      "OfferId": 17346
+    },
+    {
+      "PageName": "jan20sweet",
+      "OfferId": 17344
+    },
+    {
+      "PageName": "jan20sweet3",
+      "OfferId": 17342
     },
     {
       "PageName": "clothing_accessories",

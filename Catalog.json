@@ -321,10 +321,30 @@
             {
               "Visible": true,
               "Icon": 268,
-              "PageName": "jul21ba2",
-              "Localization": "Lote Parque Acuático",
+              "PageName": "jan20sweet",
+              "Localization": "Lote Dulce Hogar",
               "OfferIds": [
-                19110
+                17344
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "jan20sweet2",
+              "Localization": "Lote Dulce Hogar 2",
+              "OfferIds": [
+                17346
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "jan20sweet3",
+              "Localization": "Lote Dulce Hogar 3",
+              "OfferIds": [
+                17342
               ],
               "Childrens": []
             },
@@ -335,6 +355,16 @@
               "Localization": "Lote Parque Acuático",
               "OfferIds": [
                 19112
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "jul21ba2",
+              "Localization": "Lote Parque Acuático",
+              "OfferIds": [
+                19110
               ],
               "Childrens": []
             },
