@@ -1,7 +1,7 @@
 {
-  "Date": "2021-07-07 12-59-00",
+  "Date": "2021-07-07 13-01-36",
   "Type": "NORMAL",
-  "Count": 151,
+  "Count": 152,
   "Items": [
     {
       "PageName": "root",
@@ -21,6 +21,14 @@
     },
     {
       "PageName": "2020_hotnow",
+      "OfferId": -1
+    },
+    {
+      "PageName": "jul21low",
+      "OfferId": 18903
+    },
+    {
+      "PageName": "jul21low3",
       "OfferId": -1
     },
     {
@@ -78,10 +86,6 @@
     {
       "PageName": "jul21ba2",
       "OfferId": 19110
-    },
-    {
-      "PageName": "jun21galleryb",
-      "OfferId": 19102
     },
     {
       "PageName": "may21baby1",

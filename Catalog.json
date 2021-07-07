@@ -57,6 +57,24 @@
           "OfferIds": [],
           "Childrens": [
             {
+              "Visible": true,
+              "Icon": 196,
+              "PageName": "jul21low",
+              "Localization": "Bolsa de Regalos Púrpura",
+              "OfferIds": [
+                18903
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 263,
+              "PageName": "jul21low3",
+              "Localization": "Crackeable: Probabilidades de las Recompensas",
+              "OfferIds": [],
+              "Childrens": []
+            },
+            {
               "Visible": false,
               "Icon": 195,
               "PageName": "jul21high",
@@ -365,16 +383,6 @@
               "Localization": "Lote Parque Acuático",
               "OfferIds": [
                 19110
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "jun21galleryb",
-              "Localization": "Galería Habbo Hotel IX",
-              "OfferIds": [
-                19102
               ],
               "Childrens": []
             },
