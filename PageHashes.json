@@ -1,5 +1,5 @@
 {
-  "Date": "2021-07-08 12-59-00",
+  "Date": "2021-07-08 13-01-58",
   "Type": "NORMAL",
   "Count": 152,
   "Items": [
@@ -68,6 +68,14 @@
       "OfferId": -1
     },
     {
+      "PageName": "jul21bb2",
+      "OfferId": 19182
+    },
+    {
+      "PageName": "jul21bb",
+      "OfferId": 19184
+    },
+    {
       "PageName": "jan20sweet",
       "OfferId": 17344
     },
@@ -78,14 +86,6 @@
     {
       "PageName": "jan20sweet3",
       "OfferId": 17342
-    },
-    {
-      "PageName": "jul21ba",
-      "OfferId": 19112
-    },
-    {
-      "PageName": "jul21ba2",
-      "OfferId": 19110
     },
     {
       "PageName": "may21baby1",

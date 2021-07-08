@@ -339,6 +339,26 @@
             {
               "Visible": true,
               "Icon": 268,
+              "PageName": "jul21bb2",
+              "Localization": "Natural Swimming Pools Bundle",
+              "OfferIds": [
+                19182
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "jul21bb",
+              "Localization": "Lote Piscinas Naturales",
+              "OfferIds": [
+                19184
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
               "PageName": "jan20sweet",
               "Localization": "Lote Dulce Hogar",
               "OfferIds": [
@@ -363,26 +383,6 @@
               "Localization": "Lote Dulce Hogar 3",
               "OfferIds": [
                 17342
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "jul21ba",
-              "Localization": "Lote Parque Acuático",
-              "OfferIds": [
-                19112
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "jul21ba2",
-              "Localization": "Lote Parque Acuático",
-              "OfferIds": [
-                19110
               ],
               "Childrens": []
             },
