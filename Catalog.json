@@ -57,7 +57,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 196,
               "PageName": "jul21low",
               "Localization": "Bolsa de Regalos Púrpura",
@@ -67,7 +67,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 263,
               "PageName": "jul21low3",
               "Localization": "Crackeable: Probabilidades de las Recompensas",
@@ -367,7 +367,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "jul21ba",
               "Localization": "Lote Parque Acuático",
@@ -377,7 +377,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "jul21ba2",
               "Localization": "Lote Parque Acuático",
