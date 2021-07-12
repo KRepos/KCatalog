@@ -75,7 +75,7 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 195,
               "PageName": "jul21high",
               "Localization": "Bolsa de Regalos Orgullo",
@@ -85,7 +85,7 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 263,
               "PageName": "jul21high3",
               "Localization": "Crackeable: Probabilidades de las recompensas",
