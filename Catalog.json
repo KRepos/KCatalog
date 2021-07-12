@@ -337,7 +337,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 42,
               "PageName": "jul21r2",
               "Localization": "RARO Chaqueta Holográfica",
