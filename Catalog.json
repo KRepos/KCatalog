@@ -75,7 +75,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 195,
               "PageName": "jul21high",
               "Localization": "Bolsa de Regalos Orgullo",
@@ -85,7 +85,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 263,
               "PageName": "jul21high3",
               "Localization": "Crackeable: Probabilidades de las recompensas",
@@ -376,7 +376,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "jan20sweet",
               "Localization": "Lote Dulce Hogar",
@@ -386,7 +386,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "jan20sweet2",
               "Localization": "Lote Dulce Hogar 2",
@@ -396,7 +396,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "jan20sweet3",
               "Localization": "Lote Dulce Hogar 3",
