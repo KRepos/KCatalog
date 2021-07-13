@@ -1,7 +1,7 @@
 {
-  "Date": "2021-07-13 12-59-00",
+  "Date": "2021-07-13 13-02-30",
   "Type": "NORMAL",
-  "Count": 154,
+  "Count": 152,
   "Items": [
     {
       "PageName": "root",
@@ -68,32 +68,24 @@
       "OfferId": -1
     },
     {
-      "PageName": "jul21r2",
-      "OfferId": 19190
-    },
-    {
       "PageName": "2020_roombundles",
       "OfferId": -1
     },
     {
-      "PageName": "jul21bb2",
-      "OfferId": 19182
+      "PageName": "jul17festival2",
+      "OfferId": 15065
+    },
+    {
+      "PageName": "jul17festival",
+      "OfferId": 15066
     },
     {
       "PageName": "jul21bb",
       "OfferId": 19184
     },
     {
-      "PageName": "jan20sweet",
-      "OfferId": 17344
-    },
-    {
-      "PageName": "jan20sweet2",
-      "OfferId": 17346
-    },
-    {
-      "PageName": "jan20sweet3",
-      "OfferId": 17342
+      "PageName": "jul21bb2",
+      "OfferId": 19182
     },
     {
       "PageName": "may21baby1",

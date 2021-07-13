@@ -330,23 +330,12 @@
           ]
         },
         {
-          "Visible": true,
+          "Visible": false,
           "Icon": 42,
           "PageName": "2020_rares",
           "Localization": "Raros",
           "OfferIds": [],
-          "Childrens": [
-            {
-              "Visible": false,
-              "Icon": 42,
-              "PageName": "jul21r2",
-              "Localization": "RARO Chaqueta Holográfica",
-              "OfferIds": [
-                19190
-              ],
-              "Childrens": []
-            }
-          ]
+          "Childrens": []
         },
         {
           "Visible": true,
@@ -358,10 +347,20 @@
             {
               "Visible": true,
               "Icon": 268,
-              "PageName": "jul21bb2",
-              "Localization": "Lote Piscinas Naturales",
+              "PageName": "jul17festival2",
+              "Localization": "Lote Festival de Verano",
               "OfferIds": [
-                19182
+                15065
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "jul17festival",
+              "Localization": "Lote Festival de Verano",
+              "OfferIds": [
+                15066
               ],
               "Childrens": []
             },
@@ -376,32 +375,12 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
-              "PageName": "jan20sweet",
-              "Localization": "Lote Dulce Hogar",
+              "PageName": "jul21bb2",
+              "Localization": "Lote Piscinas Naturales",
               "OfferIds": [
-                17344
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "jan20sweet2",
-              "Localization": "Lote Dulce Hogar 2",
-              "OfferIds": [
-                17346
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "jan20sweet3",
-              "Localization": "Lote Dulce Hogar 3",
-              "OfferIds": [
-                17342
+                19182
               ],
               "Childrens": []
             },

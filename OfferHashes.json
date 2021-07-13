@@ -1,12 +1,8 @@
 {
-  "Date": "2021-07-13 12-59-00",
+  "Date": "2021-07-13 13-02-30",
   "Type": "NORMAL",
-  "Count": 2508,
+  "Count": 2506,
   "Items": [
-    {
-      "PageName": "jul21r2",
-      "OfferId": 19190
-    },
     {
       "PageName": "jul21bb",
       "OfferId": 19184
@@ -370,18 +366,6 @@
     {
       "PageName": "clothing_accessories",
       "OfferId": 17469
-    },
-    {
-      "PageName": "jan20sweet2",
-      "OfferId": 17346
-    },
-    {
-      "PageName": "jan20sweet",
-      "OfferId": 17344
-    },
-    {
-      "PageName": "jan20sweet3",
-      "OfferId": 17342
     },
     {
       "PageName": "clothing_accessories",
@@ -870,6 +854,14 @@
     {
       "PageName": "clothing_hairstyles",
       "OfferId": 15079
+    },
+    {
+      "PageName": "jul17festival",
+      "OfferId": 15066
+    },
+    {
+      "PageName": "jul17festival2",
+      "OfferId": 15065
     },
     {
       "PageName": "golden_cow",
