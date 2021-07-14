@@ -57,7 +57,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 196,
               "PageName": "jul21low",
               "Localization": "Bolsa de Regalos Púrpura",
@@ -67,7 +67,7 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 263,
               "PageName": "jul21low3",
               "Localization": "Crackeable: Probabilidades de las Recompensas",
