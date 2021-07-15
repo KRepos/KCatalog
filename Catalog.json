@@ -347,10 +347,20 @@
             {
               "Visible": true,
               "Icon": 268,
-              "PageName": "jul17festival2",
-              "Localization": "Lote Festival de Verano",
+              "PageName": "xmas14_bundle3a",
+              "Localization": "Lote Navidades Caribeñas",
               "OfferIds": [
-                15065
+                12659
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "xmas14_bundle3",
+              "Localization": "Resort Paraíso",
+              "OfferIds": [
+                9949
               ],
               "Childrens": []
             },
@@ -365,22 +375,12 @@
               "Childrens": []
             },
             {
-              "Visible": false,
+              "Visible": true,
               "Icon": 268,
-              "PageName": "jul21bb",
-              "Localization": "Lote Piscinas Naturales",
+              "PageName": "jul17festival2",
+              "Localization": "Lote Festival de Verano",
               "OfferIds": [
-                19184
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "jul21bb2",
-              "Localization": "Lote Piscinas Naturales",
-              "OfferIds": [
-                19182
+                15065
               ],
               "Childrens": []
             },

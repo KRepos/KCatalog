@@ -1,16 +1,8 @@
 {
-  "Date": "2021-07-15 12-59-00",
+  "Date": "2021-07-15 13-02-19",
   "Type": "NORMAL",
   "Count": 2506,
   "Items": [
-    {
-      "PageName": "jul21bb",
-      "OfferId": 19184
-    },
-    {
-      "PageName": "jul21bb2",
-      "OfferId": 19182
-    },
     {
       "PageName": "jul21low",
       "OfferId": 18903
@@ -3528,6 +3520,10 @@
       "OfferId": 12815
     },
     {
+      "PageName": "xmas14_bundle3a",
+      "OfferId": 12659
+    },
+    {
       "PageName": "clothing_hats",
       "OfferId": 12654
     },
@@ -4130,6 +4126,10 @@
     {
       "PageName": "clothing_hats",
       "OfferId": 9955
+    },
+    {
+      "PageName": "xmas14_bundle3",
+      "OfferId": 9949
     },
     {
       "PageName": "bots",
