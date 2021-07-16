@@ -1,8 +1,16 @@
 {
-  "Date": "2021-07-15 13-38-33",
+  "Date": "2021-07-16 13-02-25",
   "Type": "NORMAL",
-  "Count": 2506,
+  "Count": 2508,
   "Items": [
+    {
+      "PageName": "jul21r3",
+      "OfferId": 19215
+    },
+    {
+      "PageName": "jul21kim",
+      "OfferId": 19214
+    },
     {
       "PageName": "jul21low",
       "OfferId": 18903

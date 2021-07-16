@@ -330,12 +330,33 @@
           ]
         },
         {
-          "Visible": false,
+          "Visible": true,
           "Icon": 42,
           "PageName": "2020_rares",
           "Localization": "Raros",
           "OfferIds": [],
-          "Childrens": []
+          "Childrens": [
+            {
+              "Visible": true,
+              "Icon": 42,
+              "PageName": "jul21r3",
+              "Localization": "Raro Pared Cascada",
+              "OfferIds": [
+                19215
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 42,
+              "PageName": "jul21kim",
+              "Localization": "RARO Kimono de -Push,",
+              "OfferIds": [
+                19214
+              ],
+              "Childrens": []
+            }
+          ]
         },
         {
           "Visible": true,
