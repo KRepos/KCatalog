@@ -75,7 +75,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 195,
               "PageName": "jul21high",
               "Localization": "Bolsa de Regalos Orgullo",
@@ -85,7 +85,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 263,
               "PageName": "jul21high3",
               "Localization": "Crackeable: Probabilidades de las recompensas",
@@ -376,7 +376,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "jul17festival",
               "Localization": "Lote Festival de Verano",
@@ -386,7 +386,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 268,
               "PageName": "jul17festival2",
               "Localization": "Lote Festival de Verano",
