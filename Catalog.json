@@ -358,6 +358,26 @@
             {
               "Visible": true,
               "Icon": 268,
+              "PageName": "jun17beach",
+              "Localization": "Lote Playa Roja",
+              "OfferIds": [
+                15046
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
+              "PageName": "jun17beach2",
+              "Localization": "Lote Playa Roja",
+              "OfferIds": [
+                15048
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
+              "Icon": 268,
               "PageName": "xmas14_bundle3a",
               "Localization": "Lote Resort Paraíso",
               "OfferIds": [
@@ -372,26 +392,6 @@
               "Localization": "Resort Paraíso",
               "OfferIds": [
                 9949
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "jul17festival",
-              "Localization": "Lote Festival de Verano",
-              "OfferIds": [
-                15066
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": false,
-              "Icon": 268,
-              "PageName": "jul17festival2",
-              "Localization": "Lote Festival de Verano",
-              "OfferIds": [
-                15065
               ],
               "Childrens": []
             },
