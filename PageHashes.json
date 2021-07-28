@@ -1,7 +1,7 @@
 {
-  "Date": "2021-07-21 13-00-00",
+  "Date": "2021-07-28 15-02-26",
   "Type": "NORMAL",
-  "Count": 153,
+  "Count": 152,
   "Items": [
     {
       "PageName": "root",
@@ -76,20 +76,16 @@
       "OfferId": -1
     },
     {
-      "PageName": "jun17beach",
-      "OfferId": 15046
+      "PageName": "jul21gallery",
+      "OfferId": 19268
     },
     {
-      "PageName": "jun17beach2",
-      "OfferId": 15048
+      "PageName": "coral18mermaid2",
+      "OfferId": 15947
     },
     {
-      "PageName": "xmas14_bundle3a",
-      "OfferId": 12659
-    },
-    {
-      "PageName": "xmas14_bundle3",
-      "OfferId": 9949
+      "PageName": "coral18mermaid",
+      "OfferId": 15944
     },
     {
       "PageName": "may21baby1",

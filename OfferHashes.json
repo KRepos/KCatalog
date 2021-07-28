@@ -1,8 +1,12 @@
 {
-  "Date": "2021-07-21 13-00-00",
+  "Date": "2021-07-28 15-02-26",
   "Type": "NORMAL",
-  "Count": 2507,
+  "Count": 2506,
   "Items": [
+    {
+      "PageName": "jul21gallery",
+      "OfferId": 19268
+    },
     {
       "PageName": "jul21kim",
       "OfferId": 19214
@@ -708,6 +712,14 @@
       "OfferId": 16036
     },
     {
+      "PageName": "coral18mermaid2",
+      "OfferId": 15947
+    },
+    {
+      "PageName": "coral18mermaid",
+      "OfferId": 15944
+    },
+    {
       "PageName": "clothing_shirts",
       "OfferId": 15883
     },
@@ -850,14 +862,6 @@
     {
       "PageName": "clothing_hairstyles",
       "OfferId": 15079
-    },
-    {
-      "PageName": "jun17beach2",
-      "OfferId": 15048
-    },
-    {
-      "PageName": "jun17beach",
-      "OfferId": 15046
     },
     {
       "PageName": "golden_cow",
@@ -3524,10 +3528,6 @@
       "OfferId": 12815
     },
     {
-      "PageName": "xmas14_bundle3a",
-      "OfferId": 12659
-    },
-    {
       "PageName": "clothing_hats",
       "OfferId": 12654
     },
@@ -4130,10 +4130,6 @@
     {
       "PageName": "clothing_hats",
       "OfferId": 9955
-    },
-    {
-      "PageName": "xmas14_bundle3",
-      "OfferId": 9949
     },
     {
       "PageName": "bots",

@@ -358,40 +358,30 @@
             {
               "Visible": true,
               "Icon": 268,
-              "PageName": "jun17beach",
-              "Localization": "Lote Playa Roja",
+              "PageName": "jul21gallery",
+              "Localization": "Galería Habbo Hotel X",
               "OfferIds": [
-                15046
+                19268
               ],
               "Childrens": []
             },
             {
               "Visible": true,
               "Icon": 268,
-              "PageName": "jun17beach2",
-              "Localization": "Lote Playa Roja",
+              "PageName": "coral18mermaid2",
+              "Localization": "Lote Laguna de Sirena",
               "OfferIds": [
-                15048
+                15947
               ],
               "Childrens": []
             },
             {
               "Visible": true,
               "Icon": 268,
-              "PageName": "xmas14_bundle3a",
-              "Localization": "Lote Resort Paraíso",
+              "PageName": "coral18mermaid",
+              "Localization": "Lote Laguna de Sirena",
               "OfferIds": [
-                12659
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": true,
-              "Icon": 268,
-              "PageName": "xmas14_bundle3",
-              "Localization": "Resort Paraíso",
-              "OfferIds": [
-                9949
+                15944
               ],
               "Childrens": []
             },
