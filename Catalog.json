@@ -338,6 +338,16 @@
           "Childrens": [
             {
               "Visible": true,
+              "Icon": 145,
+              "PageName": "ler",
+              "Localization": "Raros de edición limitada",
+              "OfferIds": [
+                19277
+              ],
+              "Childrens": []
+            },
+            {
+              "Visible": true,
               "Icon": 42,
               "PageName": "jul21kim",
               "Localization": "RARO Kimono de -Push,",
