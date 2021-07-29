@@ -57,7 +57,7 @@
           "OfferIds": [],
           "Childrens": [
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 196,
               "PageName": "jul21low",
               "Localization": "Bolsa de Regalos Púrpura",
@@ -67,7 +67,7 @@
               "Childrens": []
             },
             {
-              "Visible": true,
+              "Visible": false,
               "Icon": 263,
               "PageName": "jul21low3",
               "Localization": "Crackeable: Probabilidades de las Recompensas",
@@ -362,26 +362,6 @@
               "Localization": "Galería Habbo Hotel X",
               "OfferIds": [
                 19268
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": true,
-              "Icon": 268,
-              "PageName": "coral18mermaid2",
-              "Localization": "Lote Laguna de Sirena",
-              "OfferIds": [
-                15947
-              ],
-              "Childrens": []
-            },
-            {
-              "Visible": true,
-              "Icon": 268,
-              "PageName": "coral18mermaid",
-              "Localization": "Lote Laguna de Sirena",
-              "OfferIds": [
-                15944
               ],
               "Childrens": []
             },
