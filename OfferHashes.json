@@ -1,8 +1,12 @@
 {
-  "Date": "2021-07-29 20-33-44",
+  "Date": "2021-07-30 20-46-54",
   "Type": "NORMAL",
-  "Count": 2505,
+  "Count": 2506,
   "Items": [
+    {
+      "PageName": "rare3",
+      "OfferId": 19278
+    },
     {
       "PageName": "ler",
       "OfferId": 19277
