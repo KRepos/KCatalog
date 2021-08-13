@@ -1,5 +1,5 @@
 {
-  "Date": "2021-07-30 20-46-54",
+  "Date": "2021-08-13 10-59-33",
   "Type": "NORMAL",
   "Count": 152,
   "Items": [
@@ -24,68 +24,64 @@
       "OfferId": -1
     },
     {
-      "PageName": "jul21low",
-      "OfferId": 18903
+      "PageName": "aug21new",
+      "OfferId": 18955
     },
     {
-      "PageName": "jul21low3",
+      "PageName": "aug21craft2",
+      "OfferId": 18973
+    },
+    {
+      "PageName": "aug21craft",
       "OfferId": -1
     },
     {
-      "PageName": "jul21high",
-      "OfferId": 18901
+      "PageName": "bc_cyber",
+      "OfferId": 13859
     },
     {
-      "PageName": "jul21high3",
-      "OfferId": -1
+      "PageName": "army_bc",
+      "OfferId": 14132
     },
     {
-      "PageName": "jul17old",
-      "OfferId": 9897
-    },
-    {
-      "PageName": "bc_palooza",
-      "OfferId": 14060
-    },
-    {
-      "PageName": "jun17new",
-      "OfferId": 14912
-    },
-    {
-      "PageName": "bc_tiki",
-      "OfferId": 13916
-    },
-    {
-      "PageName": "gameset_football",
-      "OfferId": 13924
-    },
-    {
-      "PageName": "hot_furni",
-      "OfferId": 13552
-    },
-    {
-      "PageName": "2020_rares",
-      "OfferId": -1
-    },
-    {
-      "PageName": "rare3",
-      "OfferId": 19278
-    },
-    {
-      "PageName": "ler",
-      "OfferId": 19277
-    },
-    {
-      "PageName": "jul21kim",
-      "OfferId": 19214
+      "PageName": "lympix16furni",
+      "OfferId": 13898
     },
     {
       "PageName": "2020_roombundles",
       "OfferId": -1
     },
     {
-      "PageName": "jul21gallery",
-      "OfferId": 19268
+      "PageName": "aug21bb2",
+      "OfferId": 19324
+    },
+    {
+      "PageName": "aug21bb",
+      "OfferId": 19323
+    },
+    {
+      "PageName": "boat16karaoke2",
+      "OfferId": 13757
+    },
+    {
+      "PageName": "boat16karaoke",
+      "OfferId": 13763
+    },
+    {
+      "PageName": "army_hqbundle2",
+      "OfferId": 11929
+    },
+    {
+      "PageName": "army_hqbundle",
+      "OfferId": 11936
+    },
+    {
+      "PageName": "lympix16habbgym2",
+      "OfferId": 14165
+    },
+    {
+      "PageName": "lympix16habbgym",
+      "OfferId": 14161
     },
     {
       "PageName": "may21baby1",
@@ -340,6 +336,10 @@
       "OfferId": -1
     },
     {
+      "PageName": "gameset_football",
+      "OfferId": 13924
+    },
+    {
       "PageName": "gameset_battle_banzai",
       "OfferId": 13429
     },
@@ -393,7 +393,7 @@
     },
     {
       "PageName": "clothing_new",
-      "OfferId": 18837
+      "OfferId": 18967
     },
     {
       "PageName": "clothing_outfits",
