@@ -239,6 +239,25 @@
         },
         {
           "Visible": true,
+          "Icon": 42,
+          "PageName": "2020_rares",
+          "Localization": "Raros",
+          "OfferIds": [],
+          "Childrens": [
+            {
+              "Visible": true,
+              "Icon": 42,
+              "PageName": "aug21roller",
+              "Localization": "RARO Patines Retro",
+              "OfferIds": [
+                19326
+              ],
+              "Childrens": []
+            }
+          ]
+        },
+        {
+          "Visible": true,
           "Icon": 268,
           "PageName": "2020_roombundles",
           "Localization": "Lotes",
