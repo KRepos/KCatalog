@@ -1,7 +1,7 @@
 {
-  "Date": "2021-08-30 16-22-05",
+  "Date": "2021-08-30 16-53-22",
   "Type": "NORMAL",
-  "Count": 145,
+  "Count": 147,
   "Items": [
     {
       "PageName": "root",
@@ -42,6 +42,14 @@
     {
       "PageName": "bc_cyber",
       "OfferId": 13859
+    },
+    {
+      "PageName": "2020_rares",
+      "OfferId": -1
+    },
+    {
+      "PageName": "ler",
+      "OfferId": 19513
     },
     {
       "PageName": "2020_roombundles",

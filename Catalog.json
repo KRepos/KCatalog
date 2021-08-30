@@ -156,6 +156,25 @@
         },
         {
           "Visible": true,
+          "Icon": 42,
+          "PageName": "2020_rares",
+          "Localization": "Raros",
+          "OfferIds": [],
+          "Childrens": [
+            {
+              "Visible": true,
+              "Icon": 145,
+              "PageName": "ler",
+              "Localization": "Raros de edición limitada",
+              "OfferIds": [
+                19513
+              ],
+              "Childrens": []
+            }
+          ]
+        },
+        {
+          "Visible": true,
           "Icon": 268,
           "PageName": "2020_roombundles",
           "Localization": "Lotes",
